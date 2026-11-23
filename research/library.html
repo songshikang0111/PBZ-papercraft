@@ -1,0 +1,199 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>影之刃零 · 视觉参考库</title>
+<style>
+:root{color-scheme:dark;--ground:#191816;--panel:#25211e;--edge:#4a3c32;--ink:#f2e6d3;--dim:#bcb09d;--accent:#d88a69;--gold:#e4bd80}
+*{box-sizing:border-box}body{margin:0;background:var(--ground);color:var(--ink);font:15px/1.55 "Noto Sans CJK SC",system-ui,sans-serif}
+header{padding:32px max(5vw,20px) 23px;border-bottom:1px solid var(--edge);background:linear-gradient(120deg,#2d221d,#181716)}
+h1,h2,h3{font-family:"Noto Serif CJK SC",serif;line-height:1.3;margin:.18em 0 .45em}h1{font-size:clamp(29px,4.5vw,54px)}h2{font-size:26px}h3{font-size:19px}
+p{margin:.4em 0;color:var(--dim)}a{color:var(--gold);text-underline-offset:3px}a:hover{color:#ffe0af}
+main{width:min(1530px,94%);margin:auto;padding:0 0 42px}.filters{background:var(--ground);position:sticky;top:0;padding:15px 0 12px;z-index:2;border-bottom:1px solid var(--edge)}
+.controls{display:flex;flex-wrap:wrap;gap:8px;margin:0 0 9px}.controls input,.controls select{background:#2a2421;color:var(--ink);border:1px solid #6b5646;border-radius:5px;font:inherit;padding:8px 11px;min-width:140px}
+.controls input{flex:1;min-width:215px}.count{color:var(--dim);font-size:14px;margin:3px 0}.reading{margin:7px 0 0;font-size:14px}
+section{margin-top:25px}.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(min(224px,100%),1fr));gap:12px}
+figure{margin:0;border:1px solid var(--edge);border-radius:8px;overflow:hidden;background:var(--panel);min-width:0}
+.media{display:block;aspect-ratio:4/3;background:#151412}.media img{display:block;width:100%;height:100%;object-fit:contain}
+figcaption{padding:8px 10px 10px;overflow-wrap:anywhere}figcaption strong{display:block}.meta{color:var(--dim);font-size:12px}.sources{display:flex;flex-wrap:wrap;gap:6px 12px;margin-top:5px;font-size:12px}
+details{background:var(--panel);border:1px solid var(--edge);border-radius:6px;margin:8px 0}
+summary{display:flex;flex-wrap:wrap;gap:0 13px;align-items:baseline;padding:12px 14px;cursor:pointer}
+summary::before{content:"▸";color:var(--accent)}details[open] summary::before{content:"▾"}summary small{color:var(--dim);font-size:12px}
+.dossier{padding:0 13px 13px}.dossier .grid{margin-top:11px}.dossier .media{aspect-ratio:5/4}.intro{max-width:60em}
+@media(max-width:550px){.grid{grid-template-columns:repeat(2,minmax(0,1fr))}.controls select{flex:1;min-width:0}.controls input{min-width:100%}main{width:94%}figcaption{font-size:13px}}
+</style>
+</head>
+<body>
+<header>
+  <h1>影之刃零 · 视觉参考库</h1>
+  <p class="intro">从地区地图进入，查看头目图鉴、不同实机构图、普通敌人和场景。每张图可打开本地原文件，来源链接在图下方。含终局剧透。</p>
+  <p class="reading"><a href="../../plan/v2-continuous-descent.md">连续俯拍分镜</a> · <a href="../../research/README.md">采集口径与来源</a> · <a href="../../research/coverage.md">逐地区缺口</a> · <a href="maps-contact.jpg">九区地图对照</a></p>
+</header>
+<main>
+  <div class="filters">
+    <div class="controls">
+      <select id="region" aria-label="地区"><option value="">全部地区</option></select>
+      <select id="kind" aria-label="类型">
+        <option value="bosses">全部头目</option><option value="map">地区地图</option>
+        <option value="scene">地标与场景</option><option value="enemy">普通敌人</option>
+        <option value="mood">整体美术参考</option><option value="boss-frame">首领实机与设定</option>
+        <option value="all">全部图片</option>
+      </select>
+      <input id="query" type="search" aria-label="搜索人物、地点或来源" placeholder="搜索名称或资料，例如「追命」「舞狮馆」「侧面」">
+    </div>
+    <div id="count" class="count" role="status"></div>
+  </div>
+  <div id="results"></div>
+</main>
+<script src="./data.js"></script>
+<script>
+const data = window.REFERENCE_LIBRARY;
+const regionNames = {...data.regions, global:"全局美术", "cross-region":"跨区", unknown:"地理待核"};
+const sections = Object.entries(regionNames);
+const region = document.querySelector("#region");
+const kind = document.querySelector("#kind");
+const query = document.querySelector("#query");
+const results = document.querySelector("#results");
+const count = document.querySelector("#count");
+const normalize = value => value.toLowerCase().replace(/[\s“”「」『』：、，。·'"()（）-]/g, "");
+function node(tag, text, cls) {
+  const el = document.createElement(tag);
+  if (text) el.textContent = text;
+  if (cls) el.className = cls;
+  return el;
+}
+function link(name, href, external = false) {
+  const item = node("a",name);
+  item.href = href;
+  if (external) {
+    item.target = "_blank";
+    item.rel = "noopener";
+  }
+  return item;
+}
+for (const [id,name] of sections) {
+  const option = node("option", name);
+  option.value = id;
+  region.append(option);
+}
+function figure(row) {
+  const element = node("figure");
+  const media = link("", row.file, true);
+  media.className = "media";
+  const im = node("img");
+  im.src = row.thumb || row.file;
+  im.alt = row.subject + " · " + row.view;
+  im.loading = "lazy";
+  media.append(im);
+  const caption = node("figcaption");
+  caption.append(node("strong", row.subject), node("div", row.view + " · " + row.size.join(" × "), "meta"));
+  const sources = node("div", "", "sources");
+  sources.append(link(row.credit || "来源页", row.page, true),link("本地图", row.file, true));
+  caption.append(sources);
+  element.append(media,caption);
+  return element;
+}
+function contains(text,needle) {
+  return normalize(text || "").includes(needle);
+}
+const imagesByRegion = Object.fromEntries(sections.map(([id]) => [id,data.images.filter(im => im.region === id)]));
+function relevantImages(boss, id) {
+  const rows = imagesByRegion[id] || [];
+  return rows.filter(im => (im.kind === "boss" || im.kind === "boss-frame" || im.related?.includes(boss.name)) &&
+    (im.related?.includes(boss.name) || normalize(im.subject) === normalize(boss.name)));
+}
+function dossier(boss, id) {
+  const photos = relevantImages(boss,id);
+  const frames = photos.filter(x => x.kind === "boss-frame");
+  const graphic = photos.length - frames.length;
+  const details = node("details");
+  const summary = node("summary");
+  summary.append(node("strong",boss.name),node("small",
+    [boss.type || "补录", graphic + " 张图鉴", frames.length + " 张实机／设定"].join(" · ")));
+  const panel = node("div","","dossier");
+  if (boss.note) panel.append(node("p",boss.note));
+  const anchors = node("div","","sources");
+  anchors.append(link("图鉴／流程来源",boss.page,true));
+  for (const [i,video] of (boss.video || []).entries()) {
+    anchors.append(link("实机定位 " + (i + 1), video, true));
+  }
+  for (const [i,article] of (boss.articles || []).entries()) {
+    anchors.append(link("图文战斗 " + (i + 1),article,true));
+  }
+  panel.append(anchors);
+  if (photos.length) {
+    const grid = node("div","","grid");
+    grid.append(...photos.map(figure));
+    panel.append(grid);
+  } else {
+    panel.append(node("p","独立参考图待补，可先查来源页"));
+  }
+  if (!photos.some(im => /正面、侧面、背面/.test(im.view))) {
+    panel.append(node("p","侧背面需逐帧核对。实机帧可用于比较轮廓和动作。"));
+  }
+  if (photos.length === 0 || frames.length === 0) {
+    const links = data.online_sources.filter(x => x.region === id &&
+      (contains(boss.name,normalize(x.subject)) || contains(x.subject,normalize(boss.name))));
+    for (const [i,row] of links.entries()) panel.append(link("补充图文入口 " + (i + 1) + "　",row.page,true));
+  }
+  details.append(summary,panel);
+  return details;
+}
+function draw() {
+  const needle = normalize(query.value);
+  const active = region.value ? sections.filter(([id]) => id === region.value) : sections;
+  const fragment = document.createDocumentFragment();
+  let shown = 0;
+  if (kind.value === "map" && !region.value) {
+    const photos = data.images.filter(row => row.kind === "map" &&
+      contains([row.subject,row.view,regionNames[row.region],row.credit].join(" "),needle));
+    if (photos.length) {
+      const section = node("section");
+      section.append(node("h2","游戏地图"));
+      const grid = node("div","","grid");
+      grid.append(...photos.map(figure));
+      section.append(grid);
+      fragment.append(section);
+    }
+    results.replaceChildren(fragment);
+    count.textContent = photos.length ? `显示 ${photos.length} 张参考图` : "此筛选下暂无地图";
+    return;
+  }
+  for (const [id,name] of active) {
+    const section = node("section");
+    if (kind.value === "bosses") {
+      const people = [...data.bosses,...data.extras].filter(entry => entry.region === id &&
+        (contains([entry.name,entry.type,name].join(" "),needle) ||
+          relevantImages(entry,id).some(im => contains([im.subject,im.view,im.credit].join(" "),needle))));
+      if (people.length) {
+        section.append(node("h2",name),...people.map(r => dossier(r,id)));
+        shown += people.length;
+      }
+    } else {
+      const photos = (imagesByRegion[id] || []).filter(row =>
+        (kind.value === "all" || kind.value === row.kind) &&
+        contains([row.subject,row.view,row.credit,row.image_id,name].join(" "),needle));
+      if (photos.length) {
+        section.append(node("h2",name));
+        const grid = node("div","","grid");
+        grid.append(...photos.map(figure));
+        section.append(grid);
+        shown += photos.length;
+      }
+    }
+    if (section.childNodes.length) fragment.append(section);
+  }
+  results.replaceChildren(fragment);
+  count.textContent = shown ? `显示 ${shown} ${kind.value === "bosses" ? "条头目记录" : "张参考图"}` : "此筛选下暂无已核验的本地图片";
+}
+for (const select of [region,kind]) select.addEventListener("change",draw);
+query.addEventListener("input",draw);
+const options = new URLSearchParams(location.search);
+if (options.has("region")) region.value = options.get("region");
+if (options.has("kind")) kind.value = options.get("kind");
+if (options.has("q")) query.value = options.get("q");
+draw();
+</script>
+</body>
+</html>

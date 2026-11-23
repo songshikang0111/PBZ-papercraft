@@ -1,0 +1,18 @@
+[
+  {"region":"00-prologue","subject":"马车追逐与谷口驿道","slug":"how-to-beat-the-hunt","patterns":["cart","cliff","mountain road"],"limit":5},
+  {"region":"01-valley","subject":"血肉花田与红妆喜堂","slug":"hua-deadly-betrothed-boss-fight","patterns":["flowers","lilies","arena","bride"],"limit":6},
+  {"region":"02-forest","subject":"镜林巨树和红线花场","slug":"bai-chilian-boss-fight","patterns":["huge twisted tree","field","threads"],"limit":5},
+  {"region":"03-village","subject":"三偶井井口、井台与木栈","slug":"well-of-the-three-puppets-bell","patterns":["stone steps","well wrapped","open well","plank walkway","village path","lantern gate"],"limit":9},
+  {"region":"03-village","subject":"井口绞盘、井沿和井底人偶洞","slug":"heartless-remnants-enter-the-well","patterns":["stone well","stone lip","puppet cave","opening","drop","cave"],"limit":9},
+  {"region":"04-town","subject":"舞狮馆场面、桩台和灯笼布置","slug":"lion-dance-grandmaster-boss-fight","patterns":["arena","lantern","hall","post","gate"],"limit":6},
+  {"region":"05-camp","subject":"七星阵场地、屋顶和木构横梁","slug":"chief-disciple-seven-stars-formation-boss-fight","patterns":["arena","courtyard","rooftop","tower","swordsmen"],"limit":6},
+  {"region":"06-lake","subject":"湖面航线、乐坊和白蛇屋船坞","slug":"meigu-lake-docks","patterns":["white serpent","songhouse","weedy","wharf","reed"],"limit":12},
+  {"region":"06-lake","subject":"白蛇屋前厅、竹林与木桩","slug":"serpent-eye-tongue-fang","patterns":["white serpent","front hall","bamboo"],"limit":7},
+  {"region":"07-prison","subject":"雾门、枷笼山入口及山道祭坛","slug":"spectral-gate","patterns":["mistgate","summit","mountain of imprisonment","shrines"],"limit":8},
+  {"region":"07-prison","subject":"宗祠、山门与荒行子交战场地","slug":"huangxing-boss-fight","patterns":["shrine","gate","arena","temple"],"limit":8},
+  {"region":"08-estate","subject":"戏楼、红门和水上灯笼","slug":"opera-ticket","patterns":["red door","masked red","opera house","carved stone"],"limit":9},
+  {"region":"08-estate","subject":"皮影八幕、红绳与灯位","slug":"shadow-puppet-play","patterns":["lantern","shadow puppet","masked","corridor","mourning hall"],"limit":15},
+  {"region":"08-estate","subject":"山庄入口、灯池与戏楼外围","slug":"how-to-enter-mirage-estate","patterns":["opera house","puppet","dance","lantern","gate","pangzhen map"],"limit":12},
+  {"region":"08-estate","subject":"圣躯心池、长阶与门楼","slug":"lei-dang-boss-fight","patterns":["wide red","arena gate","gate building","stone medallion","pond"],"limit":7},
+  {"region":"08-estate","subject":"戏梦山庄演武场、圣躯心池和出庄裂墙","slug":"the-way-forward-walkthrough","patterns":["training grounds","curtain","perfect vessel pond","fractured","wall","ravine"],"limit":9}
+]
