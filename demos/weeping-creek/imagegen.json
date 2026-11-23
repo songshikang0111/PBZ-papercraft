@@ -1,0 +1,61 @@
+[
+  {
+    "asset": "broken-steel.png",
+    "references": [
+      "boss/7868bbb445ee.png",
+      "boss-frame/f0119ebd89ff.webp"
+    ],
+    "prompt": "Use the supplied image(s) as visual research for the specific palette, massing and broad motif roles indicated below. Design a clearly original paper asset with a different design, proportions, mask or building layout. Do not lift pixels, graphics, heads, costumes, scene composition, insignia or game UI from the references. Matte woodblock ink on fine-fibre dyed paper cardstock, three to five large visible layers, subtle dark cut edge and small warm lit-side lip, saturated shape hierarchy, no glossy render, no hard external cast shadow. Entire isolated shape in frame with wide padding on transparent alpha, frontal print for a 3D hinge, flat foot anchor, no base, no margins rendered as a frame, no text. Image 1 only guides the chipped metal mass, rusty slate/material contrast, and overall scrapper archetype. Image 2 guides grounded weight and ravine mood. Make exactly one full-body CHIBI character, 2.7 heads tall, compact squat storm-grey scrap samurai brigand, with a chunky single oversized chipped blade angled out to left. Invent a warm cream rectangular paper half-mask with keyhole eye, asymmetrical slate and aubergine fabric layers and a vermilion ribbon. Bold eyes and pose readable at thumbnail scale. Whole body, boots and blade, isolated portrait."
+  },
+  {
+    "asset": "axe-master.png",
+    "references": [
+      "boss/be746f74913f.png",
+      "boss-frame/66a8db22e27c.webp"
+    ],
+    "prompt": "Use the supplied image(s) as visual research for the specific palette, massing and broad motif roles indicated below. Design a clearly original paper asset with a different design, proportions, mask or building layout. Do not lift pixels, graphics, heads, costumes, scene composition, insignia or game UI from the references. Matte woodblock ink on fine-fibre dyed paper cardstock, three to five large visible layers, subtle dark cut edge and small warm lit-side lip, saturated shape hierarchy, no glossy render, no hard external cast shadow. Entire isolated shape in frame with wide padding on transparent alpha, frontal print for a 3D hinge, flat foot anchor, no base, no margins rendered as a frame, no text. Image 1 only guides the massive hunched weight, rusty tool metal and broad two-handed silhouette. Image 2 provides weathered foliage and crouched posture reference. Make exactly one complete distinctive CHIBI axe chief, short legs and huge square shoulders, 2.7 heads tall, exaggerated one broad trapezoid bronze stone-edge axe across shoulder, clearly separate from his large visible dark bearded head. Invent a three-leaf cream scarf collar, ragged terracotta and bronze overdress and a jadestone clasp, unmasked expressive eyes. Dark wuxia miniature, serious but chibi, warm marks and deep ink recesses. Full figure only, isolated portrait."
+  },
+  {
+    "asset": "scythe-pursuer.png",
+    "references": [
+      "boss/2243fe2387b4.png",
+      "boss-frame/8cb241f0ccb6.webp"
+    ],
+    "prompt": "Use the supplied image(s) as visual research for the specific palette, massing and broad motif roles indicated below. Design a clearly original paper asset with a different design, proportions, mask or building layout. Do not lift pixels, graphics, heads, costumes, scene composition, insignia or game UI from the references. Matte woodblock ink on fine-fibre dyed paper cardstock, three to five large visible layers, subtle dark cut edge and small warm lit-side lip, saturated shape hierarchy, no glossy render, no hard external cast shadow. Entire isolated shape in frame with wide padding on transparent alpha, frontal print for a 3D hinge, flat foot anchor, no base, no margins rendered as a frame, no text. Image 1 informs the broad branching crescent silhouette and red/ink contrast. Image 2 informs the low duelling stance and waterfall palette. Draw one complete short CHIBI masked warden, 3 heads tall, with a broad invented angular ivory paper mask with visible dark eyes under a short midnight hood, layered dark sea-blue cape, cinnabar neck streamer, two distinct oversized decorative curved crescents and four cream-tipped bent crescent slips fanned behind like an echo. Invent ornament and layout. Make the pale mask easy to see and all boots and crescent shapes fully contained. One finished portrait only."
+  },
+  {
+    "asset": "iron-tower.png",
+    "references": [
+      "map/c588dd8e3967.png",
+      "scene/b5271b023da7.jpg",
+      "scene/0e928c61dfb8.jpg"
+    ],
+    "prompt": "Use the supplied image(s) as visual research for the specific palette, massing and broad motif roles indicated below. Design a clearly original paper asset with a different design, proportions, mask or building layout. Do not lift pixels, graphics, heads, costumes, scene composition, insignia or game UI from the references. Matte woodblock ink on fine-fibre dyed paper cardstock, three to five large visible layers, subtle dark cut edge and small warm lit-side lip, saturated shape hierarchy, no glossy render, no hard external cast shadow. Entire isolated shape in frame with wide padding on transparent alpha, frontal print for a 3D hinge, flat foot anchor, no base, no margins rendered as a frame, no text. Image 1 guides the type of tall narrow canyon pagoda rising behind river folds. Image 2 guides dark oxidized metal pipes meeting stone banks. Image 3 guides deep tile eaves, steps and brown-black timber. Build a unique original isolated tall Chinese waterworks tower, with dark bluish gray tiered tile roofs, carved rust-gold spars, three visible stepback terraces, a large iconic side-mounted dull brass water wheel, one counterweight pipe and tall terracotta chimney flue. Its interlocking joinery and wide step-up foundation evoke a physical card model. Warm windows, dark teal family, matte warm copper and stable flat bottom. Front three-quarter printed illustration; no surrounding cliff or water; no game-derived facade layout."
+  },
+  {
+    "asset": "waterfall.png",
+    "references": [
+      "scene/bfd0f7f885ab.jpg",
+      "boss-frame/6fdedd2b2032.webp"
+    ],
+    "prompt": "Use the supplied image(s) as visual research for the specific palette, massing and broad motif roles indicated below. Design a clearly original paper asset with a different design, proportions, mask or building layout. Do not lift pixels, graphics, heads, costumes, scene composition, insignia or game UI from the references. Matte woodblock ink on fine-fibre dyed paper cardstock, three to five large visible layers, subtle dark cut edge and small warm lit-side lip, saturated shape hierarchy, no glossy render, no hard external cast shadow. Entire isolated shape in frame with wide padding on transparent alpha, frontal print for a 3D hinge, flat foot anchor, no base, no margins rendered as a frame, no text. Image 1 guides the waterfall's layered vertical flow, forest-cut silhouette and dark cliff texture. Image 2 gives a glacial grey-jade pool palette. One complete broad waterfall paper formation on transparency, descending from three horizontal shale lips with pale ice-green and pearl cardstock curtains offset in steps. Keep rock layers dark olive/slate so the narrow pale cuts and ribbons clearly read as water. A few cut spindrift pieces are integrated at the foot. No scenery beyond the standalone waterfall piece, no floor."
+  },
+  {
+    "asset": "props.png",
+    "references": [
+      "scene/0315241e6b14.jpg",
+      "scene/bfd0f7f885ab.jpg",
+      "map/c588dd8e3967.png"
+    ],
+    "prompt": "Use the supplied image(s) as visual research for the specific palette, massing and broad motif roles indicated below. Design a clearly original paper asset with a different design, proportions, mask or building layout. Do not lift pixels, graphics, heads, costumes, scene composition, insignia or game UI from the references. Matte woodblock ink on fine-fibre dyed paper cardstock, three to five large visible layers, subtle dark cut edge and small warm lit-side lip, saturated shape hierarchy, no glossy render, no hard external cast shadow. Entire isolated shape in frame with wide padding on transparent alpha, frontal print for a 3D hinge, flat foot anchor, no base, no margins rendered as a frame, no text. Use images 1–3 only for mist-muted rock, black pines, rough wood, dark gorge scale, and tiny warm red marks. Generate a single exact 4 column × 3 row landscape atlas with equal cells, exactly one separate fully isolated paper shape per cell, large transparent gaps and at least 8 percent margins inside every cell. Never let the silhouettes touch. Top row in order: crooked spreading Chinese gorge pine, two upright slim pines on one base, squat slate boulders with strata, tall sharp overhanging slate cliff wedge. Middle row: bronze bell in wood frame, short wooden fence with rope joining its posts, Chinese timber gate with a single tiered tile eave, reeds in a tuft. Bottom row: small Q-version traveler back view in vermilion scarf and round conical hat, original chunky Q-version disc shield mountain guard, original Q-version spear mountain guard, clump of cinnabar red flowers among small shale pieces. No grid lines, text, borders, clipping or cast shadows. Single shape per cell."
+  },
+  {
+    "asset": "ground.png",
+    "references": [
+      "map/c588dd8e3967.png",
+      "scene/bfd0f7f885ab.jpg",
+      "scene/0315241e6b14.jpg"
+    ],
+    "prompt": "Create a brand new original continuous vertical 2:3 top-down illustrated cardstock terrain texture. Use image 1 only for the blue-gray ink palette, the stepped canyon bands and river/white-water vocabulary; use images 2 and 3 for wet wooden walkway / gray stone / dark green pool mood. Geometry completely redesigned for this animation: a pale warm grey ochre path flowing from center top to center bottom in a calm broad S, a blue green narrow river in the right third of the sheet also from top to bottom, a wider turquoise pool in the bottom-right quarter, cracked shale low-cliffs in the left and right margins. Distinct high contrast between central pathway, river and cliffs. Add short faint streaks for natural fibres, graphic woodblock foam. Straight-down orthographic view, intricate paper print but easy to read as a terrain texture, no figures, standalone trees, buildings, sky, perspective, text, game UI or borders. No outside background; art fills all sides."
+  }
+]
