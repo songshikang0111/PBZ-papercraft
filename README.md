@@ -1,6 +1,10 @@
 # 影之刃零 · Papercraft
 
-- [第一版归档](archive/v1-book/README.md)保存实体书跨页短片的源码、裁切素材和生成记录。两版 MP4、原始素材和质检帧随项目迁至本地 `work/2026-11-23-phantom-blade-zero/`。
-- [第二版调研与规划](research/README.md)采用连续俯拍纸景，附 [视觉图库](work/reference-library/index.html) 与 [逐区分镜](plan/v2-continuous-descent.md)。
-- 原工程由 `xfx-studio/xfx-ip-kit` 的 `7878d37` 迁入。项目保留了制作中使用的 Papercraft v0.6.0。
-- [悲泣溪谷样片](demos/weeping-creek/README.md)测试参考图驱动的 Q 版首领、独立地标和连续俯拍。
+## 剪辑素材
+
+- [官方原画、游戏图鉴与实机参考图库](work/reference-library/index.html)，可按地区和图种筛选，图下附出处。[采集口径与来源](research/README.md)
+- [Q 版 Boss 素材索引](work/boss-chibi/素材索引.html)，含 44 张透明 PNG、对应图鉴和六组关底形态对照。[透明 PNG 目录](work/boss-chibi/透明PNG/) · [生图记录](work/boss-chibi/生图记录.json)
+
+## 历史归档
+
+[旧版成片、悲泣溪谷样片及计划](archive/README.md)。源码和分镜位于 `archive/`，本地成片、原始生图和制作记录位于 `work/archive/`。

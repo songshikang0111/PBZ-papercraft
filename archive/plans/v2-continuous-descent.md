@@ -51,4 +51,4 @@
 - **参考图到生成原料**。角色首选一张图鉴辨认色块，再配实机全身和动作轮廓。大型纸偶优先看相差明显的两个视角，明确侧背部留白。建筑优先用有可比较尺度的远景与一个结构近景。原画作题材、尺度、材质和配色输入，纸偶和建筑采用自主造型、组合和纹样。每一区的环境原图、Boss 图与地图各有职责。
 - **审片门槛**。先交地图轨迹草图和素材选图，每区预留一个关键静帧的检查点。制作时再看展开前、铰链中、落定、出区四帧。在横竖比例逐一验证鞋底、屋脚、木桥投影、焦带、字幕安全区、连续移动和场景主次。任何直接由参考图推断的视角记在参考库，侧背缺图按缺项处理。
 
-[技能镜头、视频与动效](../.agents/skills/papercraft/references/motion.md) · [横竖版本规范](../.agents/skills/papercraft/references/formats.md) · [图像参考工作法](../.agents/skills/papercraft/references/image-gen.md)
+[技能镜头、视频与动效](../../.agents/skills/papercraft/references/motion.md) · [横竖版本规范](../../.agents/skills/papercraft/references/formats.md) · [图像参考工作法](../../.agents/skills/papercraft/references/image-gen.md)

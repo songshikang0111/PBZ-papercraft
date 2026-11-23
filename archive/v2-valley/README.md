@@ -1,6 +1,6 @@
 # 悲泣溪谷 · 连续俯拍样片
 
-用 14.5 秒试验连续俯拍、首领 Q 版比例和地标层级。镜头从驿道一路向下滑动，先经过残钢，再过彭猛的谷道，最后掠过钢铁巨塔与大瀑布，看追命立起。横屏和竖屏独立取景，同样保留整条镜头轨迹。竖屏 720 × 1280，横屏 1280 × 720，24 fps。完整版分镜见 [第二版规划](../../plan/v2-continuous-descent.md)。
+用 14.5 秒试验连续俯拍、首领 Q 版比例和地标层级。镜头从驿道一路向下滑动，先经过残钢，再过彭猛的谷道，最后掠过钢铁巨塔与大瀑布，看追命立起。横屏和竖屏独立取景，同样保留整条镜头轨迹。竖屏 720 × 1280，横屏 1280 × 720，24 fps。完整版分镜见 [第二版规划](../plans/v2-continuous-descent.md)。
 
 ## 图像输入与输出
 
@@ -16,7 +16,7 @@
 | `props` · 12 格图集 | 驿道实机 `0315241e6b14.jpg`、瀑布路段、手绘地图 | 取谷壁、松树、风化木和红色局部，含旅人、两类小怪、门、铃、矮栏、松、岩、芦苇及花 |
 | `ground` · 连续底纹 | 手绘地图、瀑布路段、驿道实机 | 取灰青地貌、湿石和白水走势；重新排成连续可走的 S 形路径 |
 
-[逐张生图记录](imagegen.json)可以查看实际提示词和每个输入文件。地图、图鉴和实机可从 [悲泣溪谷图库](../../work/reference-library/index.html?region=01-valley) 查阅。生产图与图集裁切见 `art/`，原始 ImageGen 输出在 `work/valley-demo/raw/`。
+[逐张生图记录](imagegen.json)可以查看实际提示词和每个输入文件。地图、图鉴和实机可从 [悲泣溪谷图库](../../work/reference-library/index.html?region=01-valley) 查阅。生产图与图集裁切见 `art/`，原始 ImageGen 输出在 `work/archive/v2-valley/raw/`。
 
 ## 纸景规格
 
@@ -30,11 +30,11 @@
 在仓库根目录准备运行环境。
 
 ```bash
-npm ci --prefix demos/weeping-creek
-uv run --with playwright python demos/weeping-creek/render.py \
-  --format vertical --stills 3 6.8 11.6 --output work/valley-demo/qa/vertical
+npm ci --prefix archive/v2-valley
+uv run --with playwright python archive/v2-valley/render.py \
+  --format vertical --stills 3 6.8 11.6 --output work/archive/v2-valley/qa/vertical
 ```
 
-去掉 `--stills` 和对应的时间，输出文件名指定为 `work/valley-demo/valley-9x16.mp4` 即可渲染 MP4。横屏使用 `--format horizontal`。渲染需要 Chrome 和 FFmpeg。Linux 上可用 `--gpu` 选择 ANGLE OpenGL，或用 `--software` 选择 SwiftShader。
+去掉 `--stills` 和对应的时间，输出文件名指定为 `work/archive/v2-valley/valley-9x16.mp4` 即可渲染 MP4。横屏使用 `--format horizontal`。渲染需要 Chrome 和 FFmpeg。Linux 上可用 `--gpu` 选择 ANGLE OpenGL，或用 `--software` 选择 SwiftShader。
 
 音轨从 `score.py` 生成并经 FFmpeg 做响度处理，用 `--audio` 传入 WAV。若要从原始 ImageGen 图重新打包，用 Pillow、NumPy 和 OpenCV 运行 `prepare_art.py`，参数为原图目录。

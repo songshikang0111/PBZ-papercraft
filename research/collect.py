@@ -17,7 +17,7 @@ import requests
 
 ROOT = Path(__file__).resolve().parents[1]
 WORK = ROOT / 'work' / 'reference-library'
-CACHE = ROOT / 'work' / 'reference-cache' / 'html'
+CACHE = ROOT / 'work' / 'archive' / 'reference-cache' / 'html'
 BWIKI = 'https://wiki.biligame.com/yingzhiren/'
 CDX = 'https://pbz.gg'
 OFFICIAL = 'https://pbz.s-game.com'

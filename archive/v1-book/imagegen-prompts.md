@@ -1,6 +1,6 @@
 # ImageGen 生成记录
 
-使用内置 ImageGen。九张纸偶表启用透明背景，三张底纹表和一张封面底纹使用全幅背景。原图按下表的 ID 保存于主工作区的 `work/2026-11-23-phantom-blade-zero/raw`。
+使用内置 ImageGen。九张纸偶表启用透明背景，三张底纹表和一张封面底纹使用全幅背景。原图按下表的 ID 保存于主工作区的 `work/archive/v1-book/raw`。
 
 ## 纸偶表
 

@@ -12,7 +12,8 @@ from threading import Thread
 from playwright.sync_api import sync_playwright
 
 
-ROOT = Path(__file__).resolve().parents[2]
+SCENE = Path(__file__).resolve().parent
+ROOT = SCENE.parents[1]
 FPS = 24
 SIZE = {'horizontal': (1280, 720), 'vertical': (720, 1280)}
 
@@ -89,7 +90,8 @@ def main():
         page=browser.new_page(viewport={'width':width,'height':height})
         page.on('pageerror',lambda error: print(error,flush=True))
         page.on('console',lambda msg: print(msg.text,flush=True) if msg.type in ('error','warning') else None)
-        page.goto(f'http://127.0.0.1:{server.server_port}/demos/weeping-creek/?capture&size={width}x{height}')
+        scene_url = SCENE.relative_to(ROOT).as_posix()
+        page.goto(f'http://127.0.0.1:{server.server_port}/{scene_url}/?capture&size={width}x{height}')
         page.wait_for_function('window.__valley?.ready',timeout=45000)
         device=page.evaluate("""() => {
           const gl=window.__valley.H.renderer.getContext();

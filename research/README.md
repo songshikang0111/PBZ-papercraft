@@ -1,6 +1,6 @@
 # 第二版视觉调研
 
-[打开本地图片库](../work/reference-library/index.html) · [九区地图对照](../work/reference-library/maps-contact.jpg) · [覆盖与缺口](coverage.md) · [连续俯拍制作规划](../plan/v2-continuous-descent.md)
+[打开本地图片库](../work/reference-library/index.html) · [九区地图对照](../work/reference-library/maps-contact.jpg) · [覆盖与缺口](coverage.md) · [连续俯拍制作规划](../archive/plans/v2-continuous-descent.md)
 
 ## 怎么查
 
@@ -40,7 +40,7 @@
 
 ## 数据与本地复现
 
-`catalog.json` 保存来源页、原图 URL、图种、尺寸、相对路径、SHA-256、图鉴条目和视频定位。研究图库和缓存位于 Git 忽略的 `work/`，可复用的整理脚本、分镜、索引数据进入版本控制。
+`catalog.json` 保存来源页、原图 URL、图种、尺寸、相对路径、SHA-256、图鉴条目和视频定位。图库位于 `work/reference-library/`，采集缓存归入 `work/archive/reference-cache/`。整理脚本和索引数据在本目录，旧分镜在 `archive/plans/`。
 
 图库已在本地构建。有完整图档时，以下命令可重建索引和缩略图。进到新仓库根目录执行。
 

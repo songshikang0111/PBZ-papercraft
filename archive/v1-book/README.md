@@ -32,14 +32,14 @@
 
 使用内置 ImageGen 制作九张透明纸偶表、三张地面纹理表、一张封面底图。每张纸偶表为三列两行，顺序为三名代表首领、压轴首领、地标、装饰组。每格为原创正面裁切稿，哑光多层卡纸、细暗切边和单侧浅色高光。地面纹理表为三条横向带状套印，分别按溪谷／森林／村落、城镇／军营／湖水、崖壁／戏台／雪谷的顺序排列。封面为蓝黑装帧布纸上的旧铜武侠山水印记。
 
-原始 PNG 和成片在主工作区的 `work/2026-11-23-phantom-blade-zero/`。裁切后可复用的图像在 `art/`。脚本仅绘制装帧几何、折痕、投影、少量悬浮纸屑和字幕。
+原始 PNG 和成片在主工作区的 `work/archive/v1-book/`。裁切后可复用的图像在 `art/`。脚本仅绘制装帧几何、折痕、投影、少量悬浮纸屑和字幕。
 
 ## 渲染
 
 需要 Chrome、Noto CJK 字体、FFmpeg 和 Python，素材整理与音轨脚本另用 Pillow、NumPy 和 SciPy。已附裁切素材及 Papercraft v0.6.0 的铰链与风摆函数。重新处理 ImageGen 原图时，把 PNG 放入工作目录的 `raw/`，用分镜 ID 命名，再运行 `prepare_art.py`。
 
 ```bash
-workdir=work/2026-11-23-phantom-blade-zero
+workdir=work/archive/v1-book
 python archive/v1-book/score.py "$workdir/raw/score.wav"
 uv run --with playwright python archive/v1-book/render.py \
   --format horizontal --audio "$workdir/raw/score.wav" --output "$workdir/phantom-blade-zero-16x9.mp4"
