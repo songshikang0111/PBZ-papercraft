@@ -1,0 +1,184 @@
+[
+ {
+  "id": "valley-tower",
+  "out": "01-valley/tower.png",
+  "inputs": [
+   {
+    "path": "work/boss-chibi/透明PNG/01 悲泣溪谷/05 追命·组织猎杀者.png",
+    "role": "STYLE reference only: copy its matte cut-paper rendering, edge treatment, grain and value steps; not its subject."
+   },
+   {
+    "path": "work/reference-library/images/01-valley/scene/0a0d39372cb2.jpg",
+    "role": "CONTENT reference (game screenshot): take the subject, its structure, materials and palette from it; redraw it fresh in the paper style; ignore UI, characters, markers and watermarks."
+   },
+   {
+    "path": "work/reference-library/images/01-valley/scene/6a5ebafd4882.jpg",
+    "role": "CONTENT reference (game screenshot): take the subject, its structure, materials and palette from it; redraw it fresh in the paper style; ignore UI, characters, markers and watermarks."
+   },
+   {
+    "path": "work/reference-library/images/01-valley/scene/e7d4f96190a5.jpg",
+    "role": "CONTENT reference (game screenshot): take the subject, its structure, materials and palette from it; redraw it fresh in the paper style; ignore UI, characters, markers and watermarks."
+   }
+  ],
+  "prompt": "Subject: A tall weathered wooden fortress tower of the Weeping Creek valley (the \"Killing-Aura Tower\"): three stacked tiers of dark grey weathered timber walls and balconies, a broad sloping grey-tile roof at each tier with upturned eaves, a huge rusty riveted iron pipe running diagonally up its side, wooden scaffolding with ropes at the base, a few hanging tattered red cloth strips. Front elevation, slightly from below, as a flat tall pop-up card. Palette: weathered slate-grey wood, rust brown iron, dark tile, one accent of dull red."
+ },
+ {
+  "id": "valley-pipe",
+  "out": "01-valley/pipe.png",
+  "inputs": [
+   {
+    "path": "work/boss-chibi/透明PNG/01 悲泣溪谷/05 追命·组织猎杀者.png",
+    "role": "STYLE reference only: copy its matte cut-paper rendering, edge treatment, grain and value steps; not its subject."
+   },
+   {
+    "path": "work/reference-library/images/01-valley/scene/6a5ebafd4882.jpg",
+    "role": "CONTENT reference (game screenshot): take the subject, its structure, materials and palette from it; redraw it fresh in the paper style; ignore UI, characters, markers and watermarks."
+   },
+   {
+    "path": "work/reference-library/images/01-valley/scene/0e928c61dfb8.jpg",
+    "role": "CONTENT reference (game screenshot): take the subject, its structure, materials and palette from it; redraw it fresh in the paper style; ignore UI, characters, markers and watermarks."
+   }
+  ],
+  "prompt": "Subject: A section of an enormous rusty iron water pipe with thick riveted flange rings and bolts, lying diagonally, a smaller pipe running along it, moss on top. Side view, flat card. Palette: rust brown, umber, dull iron grey, moss green."
+ },
+ {
+  "id": "valley-cliff-falls",
+  "out": "01-valley/cliff-falls.png",
+  "inputs": [
+   {
+    "path": "work/boss-chibi/透明PNG/01 悲泣溪谷/05 追命·组织猎杀者.png",
+    "role": "STYLE reference only: copy its matte cut-paper rendering, edge treatment, grain and value steps; not its subject."
+   },
+   {
+    "path": "work/reference-library/images/01-valley/boss-frame/f0119ebd89ff.webp",
+    "role": "CONTENT reference (game screenshot): take the subject, its structure, materials and palette from it; redraw it fresh in the paper style; ignore UI, characters, markers and watermarks."
+   },
+   {
+    "path": "work/reference-library/images/01-valley/scene/b5271b023da7.jpg",
+    "role": "CONTENT reference (game screenshot): take the subject, its structure, materials and palette from it; redraw it fresh in the paper style; ignore UI, characters, markers and watermarks."
+   },
+   {
+    "path": "work/reference-library/images/01-valley/scene/bfd0f7f885ab.jpg",
+    "role": "CONTENT reference (game screenshot): take the subject, its structure, materials and palette from it; redraw it fresh in the paper style; ignore UI, characters, markers and watermarks."
+   }
+  ],
+  "prompt": "Subject: A wide backdrop of mossy dark granite cliffs with a tall waterfall in the middle falling in three stepped cascades into mist, gnarled pine trees clinging to the ledges. Frontal elevation, a wide flat layered backdrop card, the bottom edge straight. Palette: dark slate rock, moss green, pale grey-white water, deep pine green."
+ },
+ {
+  "id": "valley-wedding",
+  "out": "01-valley/wedding.png",
+  "inputs": [
+   {
+    "path": "work/boss-chibi/透明PNG/01 悲泣溪谷/05 追命·组织猎杀者.png",
+    "role": "STYLE reference only: copy its matte cut-paper rendering, edge treatment, grain and value steps; not its subject."
+   },
+   {
+    "path": "work/reference-library/images/01-valley/scene/04bade16557b.webp",
+    "role": "CONTENT reference (game screenshot): take the subject, its structure, materials and palette from it; redraw it fresh in the paper style; ignore UI, characters, markers and watermarks."
+   },
+   {
+    "path": "work/reference-library/images/01-valley/scene/2540b2d4b631.webp",
+    "role": "CONTENT reference (game screenshot): take the subject, its structure, materials and palette from it; redraw it fresh in the paper style; ignore UI, characters, markers and watermarks."
+   }
+  ],
+  "prompt": "Subject: A small abandoned red bridal pavilion in a flower field: a square wooden frame structure with red-lacquered posts, a small curved roof draped in faded red cloth and hanging red fabric curtains, two red lanterns, a little wooden step. Three-quarter front view. Palette: faded vermilion and crimson, dark wood, a little tarnished gold."
+ },
+ {
+  "id": "valley-hut",
+  "out": "01-valley/hut.png",
+  "inputs": [
+   {
+    "path": "work/boss-chibi/透明PNG/01 悲泣溪谷/05 追命·组织猎杀者.png",
+    "role": "STYLE reference only: copy its matte cut-paper rendering, edge treatment, grain and value steps; not its subject."
+   },
+   {
+    "path": "work/reference-library/images/01-valley/scene/0315241e6b14.jpg",
+    "role": "CONTENT reference (game screenshot): take the subject, its structure, materials and palette from it; redraw it fresh in the paper style; ignore UI, characters, markers and watermarks."
+   }
+  ],
+  "prompt": "Subject: A ruined thatched wooden hut of a mountain valley: leaning grey plank walls, a sagging straw-thatch roof, an empty doorway, a stack of firewood and a clay jar beside it. Three-quarter front view. Palette: grey weathered wood, straw ochre, umber."
+ },
+ {
+  "id": "valley-lily-a",
+  "out": "01-valley/lily-a.png",
+  "inputs": [
+   {
+    "path": "work/boss-chibi/透明PNG/01 悲泣溪谷/05 追命·组织猎杀者.png",
+    "role": "STYLE reference only: copy its matte cut-paper rendering, edge treatment, grain and value steps; not its subject."
+   },
+   {
+    "path": "work/reference-library/images/01-valley/scene/04bade16557b.webp",
+    "role": "CONTENT reference (game screenshot): take the subject, its structure, materials and palette from it; redraw it fresh in the paper style; ignore UI, characters, markers and watermarks."
+   }
+  ],
+  "prompt": "Subject: A dense clump of red spider lilies (higanbana): about twelve flower heads with curling thin-petal crowns made chunky, on bare green stalks, bottom edge flat. Front view. Palette: crimson and scarlet petals in 3 values, dark green stalks."
+ },
+ {
+  "id": "valley-lily-b",
+  "out": "01-valley/lily-b.png",
+  "inputs": [
+   {
+    "path": "work/boss-chibi/透明PNG/01 悲泣溪谷/05 追命·组织猎杀者.png",
+    "role": "STYLE reference only: copy its matte cut-paper rendering, edge treatment, grain and value steps; not its subject."
+   },
+   {
+    "path": "work/reference-library/images/01-valley/scene/2540b2d4b631.webp",
+    "role": "CONTENT reference (game screenshot): take the subject, its structure, materials and palette from it; redraw it fresh in the paper style; ignore UI, characters, markers and watermarks."
+   }
+  ],
+  "prompt": "Subject: A wide low patch of red spider lilies mixed with dry grass, about twenty chunky flower heads at different heights, bottom edge flat. Front view. Palette: crimson, scarlet, dry ochre grass."
+ },
+ {
+  "id": "valley-deadtree",
+  "out": "01-valley/deadtree.png",
+  "inputs": [
+   {
+    "path": "work/boss-chibi/透明PNG/01 悲泣溪谷/05 追命·组织猎杀者.png",
+    "role": "STYLE reference only: copy its matte cut-paper rendering, edge treatment, grain and value steps; not its subject."
+   },
+   {
+    "path": "work/reference-library/images/01-valley/scene/2540b2d4b631.webp",
+    "role": "CONTENT reference (game screenshot): take the subject, its structure, materials and palette from it; redraw it fresh in the paper style; ignore UI, characters, markers and watermarks."
+   },
+   {
+    "path": "work/reference-library/images/01-valley/scene/1cb6ed1531ce.webp",
+    "role": "CONTENT reference (game screenshot): take the subject, its structure, materials and palette from it; redraw it fresh in the paper style; ignore UI, characters, markers and watermarks."
+   }
+  ],
+  "prompt": "Subject: A gnarled bare dead tree of the blood flower field, twisted trunk splitting into crooked branches, a few hanging red threads on the branches. Front view. Palette: dark umber-grey bark, a reddish tint on the branch tips."
+ },
+ {
+  "id": "valley-pine",
+  "out": "01-valley/pine.png",
+  "inputs": [
+   {
+    "path": "work/boss-chibi/透明PNG/01 悲泣溪谷/05 追命·组织猎杀者.png",
+    "role": "STYLE reference only: copy its matte cut-paper rendering, edge treatment, grain and value steps; not its subject."
+   },
+   {
+    "path": "work/reference-library/images/01-valley/scene/e7d4f96190a5.jpg",
+    "role": "CONTENT reference (game screenshot): take the subject, its structure, materials and palette from it; redraw it fresh in the paper style; ignore UI, characters, markers and watermarks."
+   }
+  ],
+  "prompt": "Subject: A gnarled mountain pine growing from a mossy rock: a twisted trunk and three to four flat cloud-like layered needle canopies, Chinese painting style silhouette. Front view. Palette: deep pine green in 3 values, dark bark, grey rock."
+ },
+ {
+  "id": "valley-scaffold",
+  "out": "01-valley/scaffold.png",
+  "inputs": [
+   {
+    "path": "work/boss-chibi/透明PNG/01 悲泣溪谷/05 追命·组织猎杀者.png",
+    "role": "STYLE reference only: copy its matte cut-paper rendering, edge treatment, grain and value steps; not its subject."
+   },
+   {
+    "path": "work/reference-library/images/01-valley/scene/e7d4f96190a5.jpg",
+    "role": "CONTENT reference (game screenshot): take the subject, its structure, materials and palette from it; redraw it fresh in the paper style; ignore UI, characters, markers and watermarks."
+   },
+   {
+    "path": "work/reference-library/images/01-valley/scene/0a0d39372cb2.jpg",
+    "role": "CONTENT reference (game screenshot): take the subject, its structure, materials and palette from it; redraw it fresh in the paper style; ignore UI, characters, markers and watermarks."
+   }
+  ],
+  "prompt": "Subject: A rickety wooden scaffold platform on stilts, crossed timber braces lashed with rope, a plank deck on top with a broken railing, a red rope tied to one post. Three-quarter front view. Palette: grey weathered timber, hemp rope, one dull red rope."
+ }
+]

@@ -1,0 +1,175 @@
+[
+ {
+  "id": "08-estate-redgate",
+  "out": "08-estate/redgate.png",
+  "inputs": [
+   {
+    "path": "work/boss-chibi/透明PNG/01 悲泣溪谷/05 追命·组织猎杀者.png",
+    "role": "STYLE reference only: copy its matte cut-paper rendering, edge treatment, grain and value steps; not its subject."
+   },
+   {
+    "path": "work/film/stickers/01-valley/wedding.png",
+    "role": "STYLE reference for props and buildings: copy exactly this cut-paper prop rendering (layered card planes, dark cut edge, matte grain); not its subject."
+   },
+   {
+    "path": "work/reference-library/images/08-estate/scene/e9c11de8b8f0.webp",
+    "role": "CONTENT reference (game screenshot): take the subject, its structure, materials and palette from it; redraw it fresh in the paper style; ignore UI, characters, markers, subtitles and watermarks."
+   },
+   {
+    "path": "work/reference-library/images/08-estate/scene/8460391305fa.webp",
+    "role": "CONTENT reference (game screenshot): take the subject, its structure, materials and palette from it; redraw it fresh in the paper style; ignore UI, characters, markers, subtitles and watermarks."
+   },
+   {
+    "path": "work/reference-library/images/08-estate/scene/c868b53d62e4.webp",
+    "role": "CONTENT reference (game screenshot): take the subject, its structure, materials and palette from it; redraw it fresh in the paper style; ignore UI, characters, markers, subtitles and watermarks."
+   }
+  ],
+  "prompt": "Subject: A grand red lacquered double door gate with gold studs and a carved lintel, a white stone lion statue on each side. Front elevation. Palette: deep red, gold, white stone."
+ },
+ {
+  "id": "08-estate-opera",
+  "out": "08-estate/opera.png",
+  "inputs": [
+   {
+    "path": "work/boss-chibi/透明PNG/01 悲泣溪谷/05 追命·组织猎杀者.png",
+    "role": "STYLE reference only: copy its matte cut-paper rendering, edge treatment, grain and value steps; not its subject."
+   },
+   {
+    "path": "work/film/stickers/01-valley/wedding.png",
+    "role": "STYLE reference for props and buildings: copy exactly this cut-paper prop rendering (layered card planes, dark cut edge, matte grain); not its subject."
+   },
+   {
+    "path": "work/reference-library/images/08-estate/scene/38bbd9a3d318.webp",
+    "role": "CONTENT reference (game screenshot): take the subject, its structure, materials and palette from it; redraw it fresh in the paper style; ignore UI, characters, markers, subtitles and watermarks."
+   },
+   {
+    "path": "work/reference-library/images/08-estate/scene/e7ad7491f7f0.webp",
+    "role": "CONTENT reference (game screenshot): take the subject, its structure, materials and palette from it; redraw it fresh in the paper style; ignore UI, characters, markers, subtitles and watermarks."
+   },
+   {
+    "path": "work/reference-library/images/08-estate/scene/20aee8152ab7.webp",
+    "role": "CONTENT reference (game screenshot): take the subject, its structure, materials and palette from it; redraw it fresh in the paper style; ignore UI, characters, markers, subtitles and watermarks."
+   }
+  ],
+  "prompt": "Subject: A two-storey Chinese opera stage tower with curved eaves, red pillars, a stage opening with curtains, lanterns along the eaves. Front elevation. Palette: deep red, dark wood, black tile, warm lantern light."
+ },
+ {
+  "id": "08-estate-puppetscreen",
+  "out": "08-estate/puppetscreen.png",
+  "inputs": [
+   {
+    "path": "work/boss-chibi/透明PNG/01 悲泣溪谷/05 追命·组织猎杀者.png",
+    "role": "STYLE reference only: copy its matte cut-paper rendering, edge treatment, grain and value steps; not its subject."
+   },
+   {
+    "path": "work/film/stickers/01-valley/wedding.png",
+    "role": "STYLE reference for props and buildings: copy exactly this cut-paper prop rendering (layered card planes, dark cut edge, matte grain); not its subject."
+   },
+   {
+    "path": "work/reference-library/images/08-estate/scene/aca802ec3dd7.webp",
+    "role": "CONTENT reference (game screenshot): take the subject, its structure, materials and palette from it; redraw it fresh in the paper style; ignore UI, characters, markers, subtitles and watermarks."
+   },
+   {
+    "path": "work/reference-library/images/08-estate/scene/2f199648b65b.webp",
+    "role": "CONTENT reference (game screenshot): take the subject, its structure, materials and palette from it; redraw it fresh in the paper style; ignore UI, characters, markers, subtitles and watermarks."
+   },
+   {
+    "path": "work/reference-library/images/08-estate/scene/ca198a3e5bd0.webp",
+    "role": "CONTENT reference (game screenshot): take the subject, its structure, materials and palette from it; redraw it fresh in the paper style; ignore UI, characters, markers, subtitles and watermarks."
+   }
+  ],
+  "prompt": "Subject: A Chinese shadow-puppet theatre screen: a glowing warm parchment screen in an ornate red frame with a painted gateway scene and two shadow-puppet figures silhouetted on it. Front view. Palette: warm parchment, red frame, dark puppet silhouettes."
+ },
+ {
+  "id": "08-estate-waterlanterns",
+  "out": "08-estate/waterlanterns.png",
+  "inputs": [
+   {
+    "path": "work/boss-chibi/透明PNG/01 悲泣溪谷/05 追命·组织猎杀者.png",
+    "role": "STYLE reference only: copy its matte cut-paper rendering, edge treatment, grain and value steps; not its subject."
+   },
+   {
+    "path": "work/film/stickers/01-valley/wedding.png",
+    "role": "STYLE reference for props and buildings: copy exactly this cut-paper prop rendering (layered card planes, dark cut edge, matte grain); not its subject."
+   },
+   {
+    "path": "work/reference-library/images/08-estate/scene/e9c11de8b8f0.webp",
+    "role": "CONTENT reference (game screenshot): take the subject, its structure, materials and palette from it; redraw it fresh in the paper style; ignore UI, characters, markers, subtitles and watermarks."
+   },
+   {
+    "path": "work/reference-library/images/08-estate/scene/8460391305fa.webp",
+    "role": "CONTENT reference (game screenshot): take the subject, its structure, materials and palette from it; redraw it fresh in the paper style; ignore UI, characters, markers, subtitles and watermarks."
+   }
+  ],
+  "prompt": "Subject: A group of floating lotus-shaped paper lanterns, small flames. Front view, low and wide. Palette: pale pink and red paper, warm flame."
+ },
+ {
+  "id": "08-estate-stairs",
+  "out": "08-estate/stairs.png",
+  "inputs": [
+   {
+    "path": "work/boss-chibi/透明PNG/01 悲泣溪谷/05 追命·组织猎杀者.png",
+    "role": "STYLE reference only: copy its matte cut-paper rendering, edge treatment, grain and value steps; not its subject."
+   },
+   {
+    "path": "work/film/stickers/01-valley/wedding.png",
+    "role": "STYLE reference for props and buildings: copy exactly this cut-paper prop rendering (layered card planes, dark cut edge, matte grain); not its subject."
+   },
+   {
+    "path": "work/reference-library/images/08-estate/scene/4529445aac67.webp",
+    "role": "CONTENT reference (game screenshot): take the subject, its structure, materials and palette from it; redraw it fresh in the paper style; ignore UI, characters, markers, subtitles and watermarks."
+   }
+  ],
+  "prompt": "Subject: A long stone stairway leading up to a red gate tower, with carved balustrades on both sides and red lanterns. Front elevation. Palette: grey stone, deep red, warm lanterns."
+ },
+ {
+  "id": "08-estate-willow",
+  "out": "08-estate/willow.png",
+  "inputs": [
+   {
+    "path": "work/boss-chibi/透明PNG/01 悲泣溪谷/05 追命·组织猎杀者.png",
+    "role": "STYLE reference only: copy its matte cut-paper rendering, edge treatment, grain and value steps; not its subject."
+   },
+   {
+    "path": "work/film/stickers/01-valley/wedding.png",
+    "role": "STYLE reference for props and buildings: copy exactly this cut-paper prop rendering (layered card planes, dark cut edge, matte grain); not its subject."
+   },
+   {
+    "path": "work/reference-library/images/08-estate/scene/38bbd9a3d318.webp",
+    "role": "CONTENT reference (game screenshot): take the subject, its structure, materials and palette from it; redraw it fresh in the paper style; ignore UI, characters, markers, subtitles and watermarks."
+   },
+   {
+    "path": "work/reference-library/images/08-estate/scene/e7ad7491f7f0.webp",
+    "role": "CONTENT reference (game screenshot): take the subject, its structure, materials and palette from it; redraw it fresh in the paper style; ignore UI, characters, markers, subtitles and watermarks."
+   }
+  ],
+  "prompt": "Subject: A drooping willow tree with long hanging fronds. Front view. Palette: muted night green, dark trunk."
+ },
+ {
+  "id": "08-estate-tigercannon",
+  "out": "08-estate/tigercannon.png",
+  "inputs": [
+   {
+    "path": "work/boss-chibi/透明PNG/01 悲泣溪谷/05 追命·组织猎杀者.png",
+    "role": "STYLE reference only: copy its matte cut-paper rendering, edge treatment, grain and value steps; not its subject."
+   },
+   {
+    "path": "work/film/stickers/01-valley/wedding.png",
+    "role": "STYLE reference for props and buildings: copy exactly this cut-paper prop rendering (layered card planes, dark cut edge, matte grain); not its subject."
+   },
+   {
+    "path": "work/reference-library/images/08-estate/boss-frame/6d201db1f45f.jpg",
+    "role": "CONTENT reference (game screenshot): take the subject, its structure, materials and palette from it; redraw it fresh in the paper style; ignore UI, characters, markers, subtitles and watermarks."
+   },
+   {
+    "path": "work/reference-library/images/08-estate/boss-frame/b14c4e68cf42.webp",
+    "role": "CONTENT reference (game screenshot): take the subject, its structure, materials and palette from it; redraw it fresh in the paper style; ignore UI, characters, markers, subtitles and watermarks."
+   },
+   {
+    "path": "work/reference-library/images/08-estate/boss-frame/4529445aac67.webp",
+    "role": "CONTENT reference (game screenshot): take the subject, its structure, materials and palette from it; redraw it fresh in the paper style; ignore UI, characters, markers, subtitles and watermarks."
+   }
+  ],
+  "prompt": "Subject: A huge bronze tiger-head cannon: an ornate snarling tiger head with a cannon muzzle in its open mouth, on a heavy wheeled carriage. Three-quarter view. Palette: dark bronze, gold, iron."
+ }
+]

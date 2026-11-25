@@ -1,0 +1,183 @@
+[
+ {
+  "id": "07-prison-cage",
+  "out": "07-prison/cage.png",
+  "inputs": [
+   {
+    "path": "work/boss-chibi/透明PNG/01 悲泣溪谷/05 追命·组织猎杀者.png",
+    "role": "STYLE reference only: copy its matte cut-paper rendering, edge treatment, grain and value steps; not its subject."
+   },
+   {
+    "path": "work/film/stickers/01-valley/wedding.png",
+    "role": "STYLE reference for props and buildings: copy exactly this cut-paper prop rendering (layered card planes, dark cut edge, matte grain); not its subject."
+   },
+   {
+    "path": "work/reference-library/images/07-prison/scene/8e490a537976.jpg",
+    "role": "CONTENT reference (game screenshot): take the subject, its structure, materials and palette from it; redraw it fresh in the paper style; ignore UI, characters, markers, subtitles and watermarks."
+   },
+   {
+    "path": "work/reference-library/images/07-prison/scene/3d8680973c13.jpg",
+    "role": "CONTENT reference (game screenshot): take the subject, its structure, materials and palette from it; redraw it fresh in the paper style; ignore UI, characters, markers, subtitles and watermarks."
+   },
+   {
+    "path": "work/reference-library/images/07-prison/scene/ae40af56394c.jpg",
+    "role": "CONTENT reference (game screenshot): take the subject, its structure, materials and palette from it; redraw it fresh in the paper style; ignore UI, characters, markers, subtitles and watermarks."
+   }
+  ],
+  "prompt": "Subject: A wooden prison cage hanging by chains from a tall wooden gallows post, bars of rough timber. Front view. Palette: dark wood, iron chain."
+ },
+ {
+  "id": "07-prison-mistcliff",
+  "out": "07-prison/mistcliff.png",
+  "inputs": [
+   {
+    "path": "work/boss-chibi/透明PNG/01 悲泣溪谷/05 追命·组织猎杀者.png",
+    "role": "STYLE reference only: copy its matte cut-paper rendering, edge treatment, grain and value steps; not its subject."
+   },
+   {
+    "path": "work/film/stickers/01-valley/wedding.png",
+    "role": "STYLE reference for props and buildings: copy exactly this cut-paper prop rendering (layered card planes, dark cut edge, matte grain); not its subject."
+   },
+   {
+    "path": "work/reference-library/images/07-prison/scene/5820accaaabd.webp",
+    "role": "CONTENT reference (game screenshot): take the subject, its structure, materials and palette from it; redraw it fresh in the paper style; ignore UI, characters, markers, subtitles and watermarks."
+   },
+   {
+    "path": "work/reference-library/images/07-prison/scene/29723a75ff7a.webp",
+    "role": "CONTENT reference (game screenshot): take the subject, its structure, materials and palette from it; redraw it fresh in the paper style; ignore UI, characters, markers, subtitles and watermarks."
+   },
+   {
+    "path": "work/reference-library/images/07-prison/scene/eb3c7a62ad25.webp",
+    "role": "CONTENT reference (game screenshot): take the subject, its structure, materials and palette from it; redraw it fresh in the paper style; ignore UI, characters, markers, subtitles and watermarks."
+   }
+  ],
+  "prompt": "Subject: A wide backdrop of sheer vertical grey-green karst cliffs with mist and clinging trees, red cloth strips hanging from ropes across the gap, bottom edge straight. Frontal backdrop card. Palette: grey-green rock, pale mist, red accents."
+ },
+ {
+  "id": "07-prison-ribbons",
+  "out": "07-prison/ribbons.png",
+  "inputs": [
+   {
+    "path": "work/boss-chibi/透明PNG/01 悲泣溪谷/05 追命·组织猎杀者.png",
+    "role": "STYLE reference only: copy its matte cut-paper rendering, edge treatment, grain and value steps; not its subject."
+   },
+   {
+    "path": "work/film/stickers/01-valley/wedding.png",
+    "role": "STYLE reference for props and buildings: copy exactly this cut-paper prop rendering (layered card planes, dark cut edge, matte grain); not its subject."
+   },
+   {
+    "path": "work/reference-library/images/07-prison/scene/5820accaaabd.webp",
+    "role": "CONTENT reference (game screenshot): take the subject, its structure, materials and palette from it; redraw it fresh in the paper style; ignore UI, characters, markers, subtitles and watermarks."
+   },
+   {
+    "path": "work/reference-library/images/07-prison/scene/29723a75ff7a.webp",
+    "role": "CONTENT reference (game screenshot): take the subject, its structure, materials and palette from it; redraw it fresh in the paper style; ignore UI, characters, markers, subtitles and watermarks."
+   },
+   {
+    "path": "work/reference-library/images/07-prison/scene/eb3c7a62ad25.webp",
+    "role": "CONTENT reference (game screenshot): take the subject, its structure, materials and palette from it; redraw it fresh in the paper style; ignore UI, characters, markers, subtitles and watermarks."
+   }
+  ],
+  "prompt": "Subject: Two tall poles with long red ribbons and paper talismans fluttering in the wind. Front view. Palette: dark wood, crimson ribbons, off-white paper."
+ },
+ {
+  "id": "07-prison-shrinegate",
+  "out": "07-prison/shrinegate.png",
+  "inputs": [
+   {
+    "path": "work/boss-chibi/透明PNG/01 悲泣溪谷/05 追命·组织猎杀者.png",
+    "role": "STYLE reference only: copy its matte cut-paper rendering, edge treatment, grain and value steps; not its subject."
+   },
+   {
+    "path": "work/film/stickers/01-valley/wedding.png",
+    "role": "STYLE reference for props and buildings: copy exactly this cut-paper prop rendering (layered card planes, dark cut edge, matte grain); not its subject."
+   },
+   {
+    "path": "work/reference-library/images/07-prison/scene/3d053d60220f.jpg",
+    "role": "CONTENT reference (game screenshot): take the subject, its structure, materials and palette from it; redraw it fresh in the paper style; ignore UI, characters, markers, subtitles and watermarks."
+   },
+   {
+    "path": "work/reference-library/images/07-prison/scene/c615dd375d6f.jpg",
+    "role": "CONTENT reference (game screenshot): take the subject, its structure, materials and palette from it; redraw it fresh in the paper style; ignore UI, characters, markers, subtitles and watermarks."
+   },
+   {
+    "path": "work/reference-library/images/07-prison/scene/bda196822605.jpg",
+    "role": "CONTENT reference (game screenshot): take the subject, its structure, materials and palette from it; redraw it fresh in the paper style; ignore UI, characters, markers, subtitles and watermarks."
+   }
+  ],
+  "prompt": "Subject: An ancestral hall mountain gate: a dark stone and timber gatehouse with a grey tile roof and two stone lanterns. Front elevation. Palette: dark grey stone, black timber, grey tile."
+ },
+ {
+  "id": "07-prison-redhall",
+  "out": "07-prison/redhall.png",
+  "inputs": [
+   {
+    "path": "work/boss-chibi/透明PNG/01 悲泣溪谷/05 追命·组织猎杀者.png",
+    "role": "STYLE reference only: copy its matte cut-paper rendering, edge treatment, grain and value steps; not its subject."
+   },
+   {
+    "path": "work/film/stickers/01-valley/wedding.png",
+    "role": "STYLE reference for props and buildings: copy exactly this cut-paper prop rendering (layered card planes, dark cut edge, matte grain); not its subject."
+   },
+   {
+    "path": "work/reference-library/images/07-prison/boss-frame/eb9e00d7c64d.webp",
+    "role": "CONTENT reference (game screenshot): take the subject, its structure, materials and palette from it; redraw it fresh in the paper style; ignore UI, characters, markers, subtitles and watermarks."
+   },
+   {
+    "path": "work/reference-library/images/07-prison/boss-frame/783da740cb5a.webp",
+    "role": "CONTENT reference (game screenshot): take the subject, its structure, materials and palette from it; redraw it fresh in the paper style; ignore UI, characters, markers, subtitles and watermarks."
+   },
+   {
+    "path": "work/reference-library/images/07-prison/boss-frame/d6f1fbbc5844.webp",
+    "role": "CONTENT reference (game screenshot): take the subject, its structure, materials and palette from it; redraw it fresh in the paper style; ignore UI, characters, markers, subtitles and watermarks."
+   }
+  ],
+  "prompt": "Subject: The interior back wall of a red-lit ancestral hall: dark red pillars, lattice screens, rows of red lanterns and an altar table with candles. Frontal elevation, wide. Palette: deep crimson, black lacquer, warm candlelight."
+ },
+ {
+  "id": "07-prison-fern",
+  "out": "07-prison/fern.png",
+  "inputs": [
+   {
+    "path": "work/boss-chibi/透明PNG/01 悲泣溪谷/05 追命·组织猎杀者.png",
+    "role": "STYLE reference only: copy its matte cut-paper rendering, edge treatment, grain and value steps; not its subject."
+   },
+   {
+    "path": "work/film/stickers/01-valley/wedding.png",
+    "role": "STYLE reference for props and buildings: copy exactly this cut-paper prop rendering (layered card planes, dark cut edge, matte grain); not its subject."
+   },
+   {
+    "path": "work/reference-library/images/07-prison/scene/8e490a537976.jpg",
+    "role": "CONTENT reference (game screenshot): take the subject, its structure, materials and palette from it; redraw it fresh in the paper style; ignore UI, characters, markers, subtitles and watermarks."
+   },
+   {
+    "path": "work/reference-library/images/07-prison/scene/3d8680973c13.jpg",
+    "role": "CONTENT reference (game screenshot): take the subject, its structure, materials and palette from it; redraw it fresh in the paper style; ignore UI, characters, markers, subtitles and watermarks."
+   }
+  ],
+  "prompt": "Subject: A lush clump of dark green ferns, bottom edge flat. Front view. Palette: deep green, sage."
+ },
+ {
+  "id": "07-prison-altar",
+  "out": "07-prison/altar.png",
+  "inputs": [
+   {
+    "path": "work/boss-chibi/透明PNG/01 悲泣溪谷/05 追命·组织猎杀者.png",
+    "role": "STYLE reference only: copy its matte cut-paper rendering, edge treatment, grain and value steps; not its subject."
+   },
+   {
+    "path": "work/film/stickers/01-valley/wedding.png",
+    "role": "STYLE reference for props and buildings: copy exactly this cut-paper prop rendering (layered card planes, dark cut edge, matte grain); not its subject."
+   },
+   {
+    "path": "work/reference-library/images/07-prison/scene/5820accaaabd.webp",
+    "role": "CONTENT reference (game screenshot): take the subject, its structure, materials and palette from it; redraw it fresh in the paper style; ignore UI, characters, markers, subtitles and watermarks."
+   },
+   {
+    "path": "work/reference-library/images/07-prison/scene/29723a75ff7a.webp",
+    "role": "CONTENT reference (game screenshot): take the subject, its structure, materials and palette from it; redraw it fresh in the paper style; ignore UI, characters, markers, subtitles and watermarks."
+   }
+  ],
+  "prompt": "Subject: A mountain road altar: a small stone shrine with offerings and red cloth, a broken red crystal cluster beside it. Front view. Palette: grey stone, crimson."
+ }
+]

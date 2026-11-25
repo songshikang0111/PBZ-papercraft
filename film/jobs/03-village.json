@@ -1,0 +1,171 @@
+[
+ {
+  "id": "03-village-house",
+  "out": "03-village/house.png",
+  "inputs": [
+   {
+    "path": "work/boss-chibi/透明PNG/01 悲泣溪谷/05 追命·组织猎杀者.png",
+    "role": "STYLE reference only: copy its matte cut-paper rendering, edge treatment, grain and value steps; not its subject."
+   },
+   {
+    "path": "work/film/stickers/01-valley/wedding.png",
+    "role": "STYLE reference for props and buildings: copy exactly this cut-paper prop rendering (layered card planes, dark cut edge, matte grain); not its subject."
+   },
+   {
+    "path": "work/reference-library/images/03-village/scene/b7beb77251b6.webp",
+    "role": "CONTENT reference (game screenshot): take the subject, its structure, materials and palette from it; redraw it fresh in the paper style; ignore UI, characters, markers, subtitles and watermarks."
+   },
+   {
+    "path": "work/reference-library/images/03-village/scene/a47d61eedaf9.webp",
+    "role": "CONTENT reference (game screenshot): take the subject, its structure, materials and palette from it; redraw it fresh in the paper style; ignore UI, characters, markers, subtitles and watermarks."
+   },
+   {
+    "path": "work/reference-library/images/03-village/scene/66105978c581.webp",
+    "role": "CONTENT reference (game screenshot): take the subject, its structure, materials and palette from it; redraw it fresh in the paper style; ignore UI, characters, markers, subtitles and watermarks."
+   }
+  ],
+  "prompt": "Subject: An old village house of Lu Village: dark timber frame, grey plastered walls, a curved grey-tile roof, a wooden door with red couplet strips (no readable text), two red paper lanterns, a clay jar by the door. Three-quarter front view. Palette: dark wood, grey plaster, grey tile, red lantern accents."
+ },
+ {
+  "id": "03-village-well",
+  "out": "03-village/well.png",
+  "inputs": [
+   {
+    "path": "work/boss-chibi/透明PNG/01 悲泣溪谷/05 追命·组织猎杀者.png",
+    "role": "STYLE reference only: copy its matte cut-paper rendering, edge treatment, grain and value steps; not its subject."
+   },
+   {
+    "path": "work/film/stickers/01-valley/wedding.png",
+    "role": "STYLE reference for props and buildings: copy exactly this cut-paper prop rendering (layered card planes, dark cut edge, matte grain); not its subject."
+   },
+   {
+    "path": "work/reference-library/images/03-village/scene/17a0a9584981.webp",
+    "role": "CONTENT reference (game screenshot): take the subject, its structure, materials and palette from it; redraw it fresh in the paper style; ignore UI, characters, markers, subtitles and watermarks."
+   },
+   {
+    "path": "work/reference-library/images/03-village/scene/8b4a990e0fff.webp",
+    "role": "CONTENT reference (game screenshot): take the subject, its structure, materials and palette from it; redraw it fresh in the paper style; ignore UI, characters, markers, subtitles and watermarks."
+   },
+   {
+    "path": "work/reference-library/images/03-village/scene/81563f66b7ea.webp",
+    "role": "CONTENT reference (game screenshot): take the subject, its structure, materials and palette from it; redraw it fresh in the paper style; ignore UI, characters, markers, subtitles and watermarks."
+   }
+  ],
+  "prompt": "Subject: The Three-Puppet Well: a round dry-stone well rim with a wooden windlass frame and rope, red ropes and red ribbons tied round it, small clay jars beside it. Three-quarter front view. Palette: grey fieldstone, dark wood, crimson rope."
+ },
+ {
+  "id": "03-village-rednet",
+  "out": "03-village/rednet.png",
+  "inputs": [
+   {
+    "path": "work/boss-chibi/透明PNG/01 悲泣溪谷/05 追命·组织猎杀者.png",
+    "role": "STYLE reference only: copy its matte cut-paper rendering, edge treatment, grain and value steps; not its subject."
+   },
+   {
+    "path": "work/film/stickers/01-valley/wedding.png",
+    "role": "STYLE reference for props and buildings: copy exactly this cut-paper prop rendering (layered card planes, dark cut edge, matte grain); not its subject."
+   },
+   {
+    "path": "work/reference-library/images/03-village/scene/b7beb77251b6.webp",
+    "role": "CONTENT reference (game screenshot): take the subject, its structure, materials and palette from it; redraw it fresh in the paper style; ignore UI, characters, markers, subtitles and watermarks."
+   },
+   {
+    "path": "work/reference-library/images/03-village/scene/a47d61eedaf9.webp",
+    "role": "CONTENT reference (game screenshot): take the subject, its structure, materials and palette from it; redraw it fresh in the paper style; ignore UI, characters, markers, subtitles and watermarks."
+   }
+  ],
+  "prompt": "Subject: A wooden frame strung with a dense net of red ropes and knots, like a cat's cradle web, standing on two posts. Front view. Palette: dark wood, crimson rope."
+ },
+ {
+  "id": "03-village-terrace",
+  "out": "03-village/terrace.png",
+  "inputs": [
+   {
+    "path": "work/boss-chibi/透明PNG/01 悲泣溪谷/05 追命·组织猎杀者.png",
+    "role": "STYLE reference only: copy its matte cut-paper rendering, edge treatment, grain and value steps; not its subject."
+   },
+   {
+    "path": "work/film/stickers/01-valley/wedding.png",
+    "role": "STYLE reference for props and buildings: copy exactly this cut-paper prop rendering (layered card planes, dark cut edge, matte grain); not its subject."
+   },
+   {
+    "path": "work/reference-library/images/03-village/scene/1ad4c107e808.jpg",
+    "role": "CONTENT reference (game screenshot): take the subject, its structure, materials and palette from it; redraw it fresh in the paper style; ignore UI, characters, markers, subtitles and watermarks."
+   },
+   {
+    "path": "work/reference-library/images/03-village/scene/2e596b8b46af.jpg",
+    "role": "CONTENT reference (game screenshot): take the subject, its structure, materials and palette from it; redraw it fresh in the paper style; ignore UI, characters, markers, subtitles and watermarks."
+   }
+  ],
+  "prompt": "Subject: A low dry-stone terrace retaining wall with stone steps rising through it and tufts of grass on top. Front view, wide and low. Palette: grey-ochre fieldstone, dry grass."
+ },
+ {
+  "id": "03-village-reeds",
+  "out": "03-village/reeds.png",
+  "inputs": [
+   {
+    "path": "work/boss-chibi/透明PNG/01 悲泣溪谷/05 追命·组织猎杀者.png",
+    "role": "STYLE reference only: copy its matte cut-paper rendering, edge treatment, grain and value steps; not its subject."
+   },
+   {
+    "path": "work/film/stickers/01-valley/wedding.png",
+    "role": "STYLE reference for props and buildings: copy exactly this cut-paper prop rendering (layered card planes, dark cut edge, matte grain); not its subject."
+   },
+   {
+    "path": "work/reference-library/images/03-village/scene/464063743d60.jpg",
+    "role": "CONTENT reference (game screenshot): take the subject, its structure, materials and palette from it; redraw it fresh in the paper style; ignore UI, characters, markers, subtitles and watermarks."
+   },
+   {
+    "path": "work/reference-library/images/03-village/scene/f59b02cd9954.jpg",
+    "role": "CONTENT reference (game screenshot): take the subject, its structure, materials and palette from it; redraw it fresh in the paper style; ignore UI, characters, markers, subtitles and watermarks."
+   }
+  ],
+  "prompt": "Subject: A wide clump of golden dry pampas reeds with feathery plumes glowing in sunset, bottom edge flat. Front view. Palette: warm gold, amber, dry ochre."
+ },
+ {
+  "id": "03-village-lonetree",
+  "out": "03-village/lonetree.png",
+  "inputs": [
+   {
+    "path": "work/boss-chibi/透明PNG/01 悲泣溪谷/05 追命·组织猎杀者.png",
+    "role": "STYLE reference only: copy its matte cut-paper rendering, edge treatment, grain and value steps; not its subject."
+   },
+   {
+    "path": "work/film/stickers/01-valley/wedding.png",
+    "role": "STYLE reference for props and buildings: copy exactly this cut-paper prop rendering (layered card planes, dark cut edge, matte grain); not its subject."
+   },
+   {
+    "path": "work/reference-library/images/03-village/scene/464063743d60.jpg",
+    "role": "CONTENT reference (game screenshot): take the subject, its structure, materials and palette from it; redraw it fresh in the paper style; ignore UI, characters, markers, subtitles and watermarks."
+   },
+   {
+    "path": "work/reference-library/images/03-village/scene/f59b02cd9954.jpg",
+    "role": "CONTENT reference (game screenshot): take the subject, its structure, materials and palette from it; redraw it fresh in the paper style; ignore UI, characters, markers, subtitles and watermarks."
+   }
+  ],
+  "prompt": "Subject: A lone bare windswept tree on a plain at sunset, a slender leaning trunk and sparse twisting branches. Front view. Palette: dark umber silhouette with warm amber rim."
+ },
+ {
+  "id": "03-village-boardwalk",
+  "out": "03-village/boardwalk.png",
+  "inputs": [
+   {
+    "path": "work/boss-chibi/透明PNG/01 悲泣溪谷/05 追命·组织猎杀者.png",
+    "role": "STYLE reference only: copy its matte cut-paper rendering, edge treatment, grain and value steps; not its subject."
+   },
+   {
+    "path": "work/film/stickers/01-valley/wedding.png",
+    "role": "STYLE reference for props and buildings: copy exactly this cut-paper prop rendering (layered card planes, dark cut edge, matte grain); not its subject."
+   },
+   {
+    "path": "work/reference-library/images/03-village/scene/b7beb77251b6.webp",
+    "role": "CONTENT reference (game screenshot): take the subject, its structure, materials and palette from it; redraw it fresh in the paper style; ignore UI, characters, markers, subtitles and watermarks."
+   },
+   {
+    "path": "work/reference-library/images/03-village/scene/a47d61eedaf9.webp",
+    "role": "CONTENT reference (game screenshot): take the subject, its structure, materials and palette from it; redraw it fresh in the paper style; ignore UI, characters, markers, subtitles and watermarks."
+   }
+  ],
+  "prompt": "Subject: A short wooden plank boardwalk on posts with a simple rail, red rope knots tied at the posts. Three-quarter view. Palette: weathered brown planks, crimson rope."
+ }
+]

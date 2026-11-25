@@ -1,0 +1,202 @@
+[
+ {
+  "id": "05-camp-palisade",
+  "out": "05-camp/palisade.png",
+  "inputs": [
+   {
+    "path": "work/boss-chibi/透明PNG/01 悲泣溪谷/05 追命·组织猎杀者.png",
+    "role": "STYLE reference only: copy its matte cut-paper rendering, edge treatment, grain and value steps; not its subject."
+   },
+   {
+    "path": "work/film/stickers/01-valley/wedding.png",
+    "role": "STYLE reference for props and buildings: copy exactly this cut-paper prop rendering (layered card planes, dark cut edge, matte grain); not its subject."
+   },
+   {
+    "path": "work/reference-library/images/05-camp/scene/92fcd8a5fa7e.jpg",
+    "role": "CONTENT reference (game screenshot): take the subject, its structure, materials and palette from it; redraw it fresh in the paper style; ignore UI, characters, markers, subtitles and watermarks."
+   },
+   {
+    "path": "work/reference-library/images/05-camp/scene/e8864d8e3e24.jpg",
+    "role": "CONTENT reference (game screenshot): take the subject, its structure, materials and palette from it; redraw it fresh in the paper style; ignore UI, characters, markers, subtitles and watermarks."
+   }
+  ],
+  "prompt": "Subject: A section of a sharpened log palisade wall with a small wooden gate and rope lashings. Front view, wide. Palette: weathered brown logs, hemp rope."
+ },
+ {
+  "id": "05-camp-watchtower",
+  "out": "05-camp/watchtower.png",
+  "inputs": [
+   {
+    "path": "work/boss-chibi/透明PNG/01 悲泣溪谷/05 追命·组织猎杀者.png",
+    "role": "STYLE reference only: copy its matte cut-paper rendering, edge treatment, grain and value steps; not its subject."
+   },
+   {
+    "path": "work/film/stickers/01-valley/wedding.png",
+    "role": "STYLE reference for props and buildings: copy exactly this cut-paper prop rendering (layered card planes, dark cut edge, matte grain); not its subject."
+   },
+   {
+    "path": "work/reference-library/images/05-camp/scene/7e5df1daa99e.jpg",
+    "role": "CONTENT reference (game screenshot): take the subject, its structure, materials and palette from it; redraw it fresh in the paper style; ignore UI, characters, markers, subtitles and watermarks."
+   },
+   {
+    "path": "work/reference-library/images/05-camp/scene/92fcd8a5fa7e.jpg",
+    "role": "CONTENT reference (game screenshot): take the subject, its structure, materials and palette from it; redraw it fresh in the paper style; ignore UI, characters, markers, subtitles and watermarks."
+   },
+   {
+    "path": "work/reference-library/images/05-camp/scene/fc029cd977ef.jpg",
+    "role": "CONTENT reference (game screenshot): take the subject, its structure, materials and palette from it; redraw it fresh in the paper style; ignore UI, characters, markers, subtitles and watermarks."
+   }
+  ],
+  "prompt": "Subject: A wooden military watchtower on four log legs with cross braces, a small roofed lookout box on top with a tattered banner. Front view. Palette: brown timber, grey thatch, faded white banner."
+ },
+ {
+  "id": "05-camp-burningtower",
+  "out": "05-camp/burningtower.png",
+  "inputs": [
+   {
+    "path": "work/boss-chibi/透明PNG/01 悲泣溪谷/05 追命·组织猎杀者.png",
+    "role": "STYLE reference only: copy its matte cut-paper rendering, edge treatment, grain and value steps; not its subject."
+   },
+   {
+    "path": "work/film/stickers/01-valley/wedding.png",
+    "role": "STYLE reference for props and buildings: copy exactly this cut-paper prop rendering (layered card planes, dark cut edge, matte grain); not its subject."
+   },
+   {
+    "path": "work/reference-library/images/05-camp/scene/bc5893cb020f.webp",
+    "role": "CONTENT reference (game screenshot): take the subject, its structure, materials and palette from it; redraw it fresh in the paper style; ignore UI, characters, markers, subtitles and watermarks."
+   },
+   {
+    "path": "work/reference-library/images/05-camp/scene/b910f51369f9.webp",
+    "role": "CONTENT reference (game screenshot): take the subject, its structure, materials and palette from it; redraw it fresh in the paper style; ignore UI, characters, markers, subtitles and watermarks."
+   },
+   {
+    "path": "work/reference-library/images/05-camp/scene/d36e77e47e26.webp",
+    "role": "CONTENT reference (game screenshot): take the subject, its structure, materials and palette from it; redraw it fresh in the paper style; ignore UI, characters, markers, subtitles and watermarks."
+   }
+  ],
+  "prompt": "Subject: A burning wooden scaffold tower on a training ground, cross-braced timber, layered paper flames licking up one side. Front view. Palette: charred brown timber, orange and red flames."
+ },
+ {
+  "id": "05-camp-roof",
+  "out": "05-camp/roof.png",
+  "inputs": [
+   {
+    "path": "work/boss-chibi/透明PNG/01 悲泣溪谷/05 追命·组织猎杀者.png",
+    "role": "STYLE reference only: copy its matte cut-paper rendering, edge treatment, grain and value steps; not its subject."
+   },
+   {
+    "path": "work/film/stickers/01-valley/wedding.png",
+    "role": "STYLE reference for props and buildings: copy exactly this cut-paper prop rendering (layered card planes, dark cut edge, matte grain); not its subject."
+   },
+   {
+    "path": "work/reference-library/images/05-camp/boss-frame/884d28645e6d.webp",
+    "role": "CONTENT reference (game screenshot): take the subject, its structure, materials and palette from it; redraw it fresh in the paper style; ignore UI, characters, markers, subtitles and watermarks."
+   },
+   {
+    "path": "work/reference-library/images/05-camp/boss-frame/c573de607e30.webp",
+    "role": "CONTENT reference (game screenshot): take the subject, its structure, materials and palette from it; redraw it fresh in the paper style; ignore UI, characters, markers, subtitles and watermarks."
+   },
+   {
+    "path": "work/reference-library/images/05-camp/boss-frame/4476f0862523.webp",
+    "role": "CONTENT reference (game screenshot): take the subject, its structure, materials and palette from it; redraw it fresh in the paper style; ignore UI, characters, markers, subtitles and watermarks."
+   }
+  ],
+  "prompt": "Subject: A Chinese hall roof seen from the side and slightly above: a sweeping hip-and-gable roof of grey tiles with upturned eaves and a tall bronze finial spire at the top. Palette: dark grey tile, bronze."
+ },
+ {
+  "id": "05-camp-hallgate",
+  "out": "05-camp/hallgate.png",
+  "inputs": [
+   {
+    "path": "work/boss-chibi/透明PNG/01 悲泣溪谷/05 追命·组织猎杀者.png",
+    "role": "STYLE reference only: copy its matte cut-paper rendering, edge treatment, grain and value steps; not its subject."
+   },
+   {
+    "path": "work/film/stickers/01-valley/wedding.png",
+    "role": "STYLE reference for props and buildings: copy exactly this cut-paper prop rendering (layered card planes, dark cut edge, matte grain); not its subject."
+   },
+   {
+    "path": "work/reference-library/images/05-camp/boss-frame/d0b3900afd42.webp",
+    "role": "CONTENT reference (game screenshot): take the subject, its structure, materials and palette from it; redraw it fresh in the paper style; ignore UI, characters, markers, subtitles and watermarks."
+   },
+   {
+    "path": "work/reference-library/images/05-camp/boss-frame/124eecc69cd7.webp",
+    "role": "CONTENT reference (game screenshot): take the subject, its structure, materials and palette from it; redraw it fresh in the paper style; ignore UI, characters, markers, subtitles and watermarks."
+   },
+   {
+    "path": "work/reference-library/images/05-camp/boss-frame/ce68d20b4c44.webp",
+    "role": "CONTENT reference (game screenshot): take the subject, its structure, materials and palette from it; redraw it fresh in the paper style; ignore UI, characters, markers, subtitles and watermarks."
+   }
+  ],
+  "prompt": "Subject: A dark red training hall gate with a horizontal plaque (no readable text), red pillars, a red curtain, red candles burning in front. Front elevation. Palette: deep red, black lacquer, candle orange."
+ },
+ {
+  "id": "05-camp-weaponrack",
+  "out": "05-camp/weaponrack.png",
+  "inputs": [
+   {
+    "path": "work/boss-chibi/透明PNG/01 悲泣溪谷/05 追命·组织猎杀者.png",
+    "role": "STYLE reference only: copy its matte cut-paper rendering, edge treatment, grain and value steps; not its subject."
+   },
+   {
+    "path": "work/film/stickers/01-valley/wedding.png",
+    "role": "STYLE reference for props and buildings: copy exactly this cut-paper prop rendering (layered card planes, dark cut edge, matte grain); not its subject."
+   },
+   {
+    "path": "work/reference-library/images/05-camp/scene/b94bcb84a235.jpg",
+    "role": "CONTENT reference (game screenshot): take the subject, its structure, materials and palette from it; redraw it fresh in the paper style; ignore UI, characters, markers, subtitles and watermarks."
+   },
+   {
+    "path": "work/reference-library/images/05-camp/scene/6eef5accb0b2.jpg",
+    "role": "CONTENT reference (game screenshot): take the subject, its structure, materials and palette from it; redraw it fresh in the paper style; ignore UI, characters, markers, subtitles and watermarks."
+   }
+  ],
+  "prompt": "Subject: A wooden weapon rack holding spears, swords and a halberd, a straw training dummy next to it. Front view. Palette: brown wood, iron grey, straw."
+ },
+ {
+  "id": "05-camp-candles",
+  "out": "05-camp/candles.png",
+  "inputs": [
+   {
+    "path": "work/boss-chibi/透明PNG/01 悲泣溪谷/05 追命·组织猎杀者.png",
+    "role": "STYLE reference only: copy its matte cut-paper rendering, edge treatment, grain and value steps; not its subject."
+   },
+   {
+    "path": "work/film/stickers/01-valley/wedding.png",
+    "role": "STYLE reference for props and buildings: copy exactly this cut-paper prop rendering (layered card planes, dark cut edge, matte grain); not its subject."
+   },
+   {
+    "path": "work/reference-library/images/05-camp/scene/b94bcb84a235.jpg",
+    "role": "CONTENT reference (game screenshot): take the subject, its structure, materials and palette from it; redraw it fresh in the paper style; ignore UI, characters, markers, subtitles and watermarks."
+   },
+   {
+    "path": "work/reference-library/images/05-camp/scene/6eef5accb0b2.jpg",
+    "role": "CONTENT reference (game screenshot): take the subject, its structure, materials and palette from it; redraw it fresh in the paper style; ignore UI, characters, markers, subtitles and watermarks."
+   }
+  ],
+  "prompt": "Subject: A cluster of red ritual candles of different heights on the ground, small flames, melted wax. Front view, low. Palette: crimson, warm wax, small orange flames."
+ },
+ {
+  "id": "05-camp-pigeonhouse",
+  "out": "05-camp/pigeonhouse.png",
+  "inputs": [
+   {
+    "path": "work/boss-chibi/透明PNG/01 悲泣溪谷/05 追命·组织猎杀者.png",
+    "role": "STYLE reference only: copy its matte cut-paper rendering, edge treatment, grain and value steps; not its subject."
+   },
+   {
+    "path": "work/film/stickers/01-valley/wedding.png",
+    "role": "STYLE reference for props and buildings: copy exactly this cut-paper prop rendering (layered card planes, dark cut edge, matte grain); not its subject."
+   },
+   {
+    "path": "work/reference-library/images/05-camp/scene/b0556359f3a0.jpg",
+    "role": "CONTENT reference (game screenshot): take the subject, its structure, materials and palette from it; redraw it fresh in the paper style; ignore UI, characters, markers, subtitles and watermarks."
+   },
+   {
+    "path": "work/reference-library/images/05-camp/scene/996ee53f9017.jpg",
+    "role": "CONTENT reference (game screenshot): take the subject, its structure, materials and palette from it; redraw it fresh in the paper style; ignore UI, characters, markers, subtitles and watermarks."
+   }
+  ],
+  "prompt": "Subject: A raised wooden pigeon loft hut on stilts with a small ladder and a few grey pigeons on the roof. Three-quarter view. Palette: brown wood, grey roof, slate grey birds."
+ }
+]

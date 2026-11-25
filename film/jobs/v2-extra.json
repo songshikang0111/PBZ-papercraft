@@ -1,0 +1,74 @@
+[
+ {
+  "id": "guwanyue",
+  "out": "04-town/guwanyue.png",
+  "inputs": [
+   {
+    "path": "work/reference-library/images/04-town/boss/d854c9f46bc7.png",
+    "role": "CHARACTER reference: Gu Wanyue, the Wailing Wraith. The portrait is cropped at the hips: take her long straight black hair over a chalk-white face with dark red eye shadow and red lips, the ruffled layered grey shoulder cape with dark trim, the slate blue-grey robe, and above all the two enormously long pale grey ragged sleeves that trail far beyond her hands and end in many tattered ribbon-like tongues."
+   },
+   {
+    "path": "work/boss-chibi/透明PNG/04 庞镇/04 舞狮尊主·烈焰.png",
+    "role": "STYLE reference only: copy its chibi proportions (about 3 heads tall, big head, compact limbs), matte cut-paper rendering, edge treatment and value steps. Do not copy this character."
+   }
+  ],
+  "prompt": "Subject: a chibi female wraith, about 3 heads tall, floating slightly with the robe hem ending in ragged points instead of visible feet. Three-quarter view facing LEFT. Both arms swept forward and to the side so the two huge pale grey tattered sleeves fan out in long sweeping tongues, the dominant shape of the silhouette (chunky cut-paper tongues, not thin hairs). Long black hair framing a white face with closed-in red eyes and red lips, ruffled grey shoulder cape, slate blue-grey robe. Eerie and somber, no glow, no smoke, no paper money, no scenery. Keep the whole figure and every sleeve tip inside the canvas with clear transparent margin."
+ },
+ {
+  "id": "hero-deflect",
+  "out": "hero/hero-deflect.png",
+  "inputs": [
+   {
+    "path": "work/reference-library/images/global/mood/527972bce7cc.webp",
+    "role": "CHARACTER reference: the swordsman Soul. Take his design: wide grey woven conical bamboo hat hiding the eyes, long white-grey hair, layered charcoal-black robes and ragged long cape, one segmented dark iron shoulder pauldron, leather belts, wrapped boots, a long straight sword with a dark blood-red blade. Ignore the logo and text."
+   },
+   {
+    "path": "work/boss-chibi/透明PNG/01 悲泣溪谷/05 追命·组织猎杀者.png",
+    "role": "STYLE reference only: copy its chibi proportions (about 3 heads tall, big head, compact limbs) and its matte cut-paper rendering, edge treatment and value steps. Do not copy this character."
+   },
+   {
+    "path": "work/film/stickers/hero/hero-idle.png",
+    "role": "SAME CHARACTER, already drawn in the final style: match this exact design, colours, hat, hair, armour, cape, line weight and proportions; only the pose changes."
+   }
+  ],
+  "prompt": "Subject: the chibi swordsman Soul. Pose: perfect parry facing RIGHT: a sharp upward flick of the sword from low-left to high-right in front of him, blade angled up, front foot stepped in, cape snapping back, body leaning slightly into the blow. Same character, same colours and same proportions as every other pose of this set."
+ },
+ {
+  "id": "hero-counter",
+  "out": "hero/hero-counter.png",
+  "inputs": [
+   {
+    "path": "work/reference-library/images/global/mood/527972bce7cc.webp",
+    "role": "CHARACTER reference: the swordsman Soul. Take his design: wide grey woven conical bamboo hat hiding the eyes, long white-grey hair, layered charcoal-black robes and ragged long cape, one segmented dark iron shoulder pauldron, leather belts, wrapped boots, a long straight sword with a dark blood-red blade. Ignore the logo and text."
+   },
+   {
+    "path": "work/boss-chibi/透明PNG/01 悲泣溪谷/05 追命·组织猎杀者.png",
+    "role": "STYLE reference only: copy its chibi proportions (about 3 heads tall, big head, compact limbs) and its matte cut-paper rendering, edge treatment and value steps. Do not copy this character."
+   },
+   {
+    "path": "work/film/stickers/hero/hero-idle.png",
+    "role": "SAME CHARACTER, already drawn in the final style: match this exact design, colours, hat, hair, armour, cape, line weight and proportions; only the pose changes."
+   }
+  ],
+  "prompt": "Subject: the chibi swordsman Soul. Pose: lunging counter thrust facing RIGHT: deep forward lunge, sword arm fully extended straight forward at chest height, the dark red blade horizontal, rear leg stretched back, cape and hair streaming behind. Same character, same colours and same proportions as every other pose of this set."
+ },
+ {
+  "id": "hero-crouch",
+  "out": "hero/hero-crouch.png",
+  "inputs": [
+   {
+    "path": "work/reference-library/images/global/mood/527972bce7cc.webp",
+    "role": "CHARACTER reference: the swordsman Soul. Take his design: wide grey woven conical bamboo hat hiding the eyes, long white-grey hair, layered charcoal-black robes and ragged long cape, one segmented dark iron shoulder pauldron, leather belts, wrapped boots, a long straight sword with a dark blood-red blade. Ignore the logo and text."
+   },
+   {
+    "path": "work/boss-chibi/透明PNG/01 悲泣溪谷/05 追命·组织猎杀者.png",
+    "role": "STYLE reference only: copy its chibi proportions (about 3 heads tall, big head, compact limbs) and its matte cut-paper rendering, edge treatment and value steps. Do not copy this character."
+   },
+   {
+    "path": "work/film/stickers/hero/hero-idle.png",
+    "role": "SAME CHARACTER, already drawn in the final style: match this exact design, colours, hat, hair, armour, cape, line weight and proportions; only the pose changes."
+   }
+  ],
+  "prompt": "Subject: the chibi swordsman Soul. Pose: crouching low in cover facing RIGHT: one knee down, hunched with the hat tilted down, sword held close against the body pointing back, cape draped over his back, compact silhouette. Same character, same colours and same proportions as every other pose of this set."
+ }
+]

@@ -1,0 +1,20 @@
+<!doctype html>
+<html lang="zh">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>片头 · 影之刃零 Papercraft</title>
+<link rel="icon" href="data:,">
+<style>
+  html, body { margin: 0; height: 100%; overflow: hidden; background: #b9b8a2; }
+  canvas { display: block; }
+  .hint { display: none; }
+</style>
+<!-- served from the repository root: papercraft/ is the skill's assets folder (harness and kit kept as they are) -->
+<script type="importmap">{ "imports": { "three": "https://cdn.jsdelivr.net/npm/three@0.187.0/build/three.module.js", "papercraft/": "/.agents/skills/papercraft/assets/" } }</script>
+</head>
+<body>
+<div class="hint" id="hint"></div>
+<script type="module" src="./scene.js"></script>
+</body>
+</html>

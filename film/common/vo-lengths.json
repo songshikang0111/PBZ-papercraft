@@ -1,0 +1,1526 @@
+{
+"01-valley/vo/ahua_attack_heavy_01.wav": {
+"len": 2.1,
+"squeeze": 1.57,
+"seg": [
+1.57
+]
+},
+"01-valley/vo/ahua_hurt_01.wav": {
+"len": 1.25,
+"squeeze": 0.96,
+"seg": [
+0.96
+]
+},
+"01-valley/vo/ahua_line_01.wav": {
+"len": 3.16,
+"squeeze": 2.9,
+"seg": [
+2.9
+]
+},
+"01-valley/vo/ahua_short_line_01.wav": {
+"len": 2.84,
+"squeeze": 2.76,
+"seg": [
+2.76
+]
+},
+"01-valley/vo/pengmeng_attack_heavy_01.wav": {
+"len": 0.95,
+"squeeze": 0.95,
+"seg": [
+0.95
+]
+},
+"01-valley/vo/pengmeng_hurt_01.wav": {
+"len": 0.8,
+"squeeze": 0.8,
+"seg": [
+0.8
+]
+},
+"01-valley/vo/pengmeng_line_01.wav": {
+"len": 3.04,
+"squeeze": 3.04,
+"seg": [
+3.04
+]
+},
+"01-valley/vo/pengmeng_short_line_01.wav": {
+"len": 2.91,
+"squeeze": 2.91,
+"seg": [
+2.91
+]
+},
+"01-valley/vo/zhuiming_attack_01.wav": {
+"len": 0.67,
+"squeeze": 0.66,
+"seg": [
+0.66
+]
+},
+"01-valley/vo/zhuiming_attack_02.wav": {
+"len": 0.73,
+"squeeze": 0.73,
+"seg": [
+0.73
+]
+},
+"01-valley/vo/zhuiming_charge_01.wav": {
+"len": 1.73,
+"squeeze": 1.66,
+"seg": [
+1.66
+]
+},
+"01-valley/vo/zhuiming_hurt_01.wav": {
+"len": 1.01,
+"squeeze": 1.01,
+"seg": [
+1.01
+]
+},
+"01-valley/vo/zhuiming_hurt_02.wav": {
+"len": 0.76,
+"squeeze": 0.64,
+"seg": [
+0.64
+]
+},
+"01-valley/vo/zhuiming_p1_line_01.wav": {
+"len": 2.84,
+"squeeze": 2.82,
+"seg": [
+2.82
+]
+},
+"01-valley/vo/zhuiming_p1_line_alt_01.wav": {
+"len": 3.83,
+"squeeze": 3.68,
+"seg": [
+3.68
+]
+},
+"01-valley/vo/zhuiming_p1_line_alt_02.wav": {
+"len": 2.53,
+"squeeze": 2.51,
+"seg": [
+2.51
+]
+},
+"01-valley/vo/zhuiming_p2_line_01.wav": {
+"len": 4.68,
+"squeeze": 4.66,
+"seg": [
+2.5,
+1.98
+]
+},
+"01-valley/vo/zhuiming_p2_line_02.wav": {
+"len": 5.63,
+"squeeze": 5.39,
+"seg": [
+2.32,
+2.89
+]
+},
+"01-valley/vo/zhuiming_p2_line_03.wav": {
+"len": 5.9,
+"squeeze": 5.47,
+"seg": [
+2.13,
+3.16
+]
+},
+"01-valley/vo/zhuiming_p2_line_alt_01.wav": {
+"len": 3.88,
+"squeeze": 3.87,
+"seg": [
+3.87
+]
+},
+"01-valley/vo/zhuiming_phase_01.wav": {
+"len": 1.55,
+"squeeze": 1.4,
+"seg": [
+1.4
+]
+},
+"02-forest/vo/baichilian_attack_01.wav": {
+"len": 0.31,
+"squeeze": 0.31,
+"seg": [
+0.31
+]
+},
+"02-forest/vo/baichilian_attack_02.wav": {
+"len": 0.72,
+"squeeze": 0.7,
+"seg": [
+0.7
+]
+},
+"02-forest/vo/baichilian_charge_01.wav": {
+"len": 1.17,
+"squeeze": 1.17,
+"seg": [
+1.17
+]
+},
+"02-forest/vo/baichilian_charge_02.wav": {
+"len": 0.96,
+"squeeze": 0.72,
+"seg": [
+0.72
+]
+},
+"02-forest/vo/baichilian_death_01.wav": {
+"len": 1.07,
+"squeeze": 1.07,
+"seg": [
+1.07
+]
+},
+"02-forest/vo/baichilian_death_02.wav": {
+"len": 1.52,
+"squeeze": 1.28,
+"seg": [
+1.28
+]
+},
+"02-forest/vo/baichilian_hurt_01.wav": {
+"len": 0.81,
+"squeeze": 0.71,
+"seg": [
+0.71
+]
+},
+"02-forest/vo/baichilian_hurt_02.wav": {
+"len": 0.99,
+"squeeze": 0.88,
+"seg": [
+0.88
+]
+},
+"02-forest/vo/baichilian_p1_line_01.wav": {
+"len": 16.37,
+"squeeze": 8.81,
+"seg": [
+0.41,
+1.99,
+0.69,
+1.69,
+1.13,
+2.0
+]
+},
+"02-forest/vo/baichilian_p1_line_02.wav": {
+"len": 14.84,
+"squeeze": 6.69,
+"seg": [
+0.91,
+0.38,
+2.09,
+2.77
+]
+},
+"02-forest/vo/baichilian_p2_line_01.wav": {
+"len": 3.4,
+"squeeze": 3.36,
+"seg": [
+3.36
+]
+},
+"02-forest/vo/baichilian_p2_line_02.wav": {
+"len": 3.92,
+"squeeze": 3.78,
+"seg": [
+3.78
+]
+},
+"02-forest/vo/baichilian_p2_line_03.wav": {
+"len": 9.82,
+"squeeze": 9.01,
+"seg": [
+3.62,
+5.21
+]
+},
+"02-forest/vo/huaqianxiao_attack_heavy_01.wav": {
+"len": 1.34,
+"squeeze": 1.18,
+"seg": [
+1.18
+]
+},
+"02-forest/vo/huaqianxiao_hurt_01.wav": {
+"len": 0.54,
+"squeeze": 0.47,
+"seg": [
+0.47
+]
+},
+"02-forest/vo/huaqianxiao_line_01.wav": {
+"len": 6.05,
+"squeeze": 5.92,
+"seg": [
+2.8,
+2.94
+]
+},
+"02-forest/vo/jingye_attack_heavy_01.wav": {
+"len": 0.95,
+"squeeze": 0.79,
+"seg": [
+0.79
+]
+},
+"02-forest/vo/jingye_line_01.wav": {
+"len": 3.37,
+"squeeze": 3.35,
+"seg": [
+3.35
+]
+},
+"02-forest/vo/tiekuang_hurt_01.wav": {
+"len": 0.65,
+"squeeze": 0.44,
+"seg": [
+0.44
+]
+},
+"02-forest/vo/tiekuang_line_01.wav": {
+"len": 1.59,
+"squeeze": 1.58,
+"seg": [
+1.58
+]
+},
+"03-village/vo/danghui_attack_heavy_01.wav": {
+"len": 0.87,
+"squeeze": 0.87,
+"seg": [
+0.87
+]
+},
+"03-village/vo/danghui_encounter_line_01.wav": {
+"len": 4.8,
+"squeeze": 4.74,
+"seg": [
+4.74
+]
+},
+"03-village/vo/danghui_hurt_01.wav": {
+"len": 0.69,
+"squeeze": 0.69,
+"seg": [
+0.69
+]
+},
+"03-village/vo/muxiaokui_attack_01.wav": {
+"len": 0.59,
+"squeeze": 0.59,
+"seg": [
+0.59
+]
+},
+"03-village/vo/muxiaokui_attack_02.wav": {
+"len": 0.51,
+"squeeze": 0.37,
+"seg": [
+0.37
+]
+},
+"03-village/vo/muxiaokui_charge_01.wav": {
+"len": 0.65,
+"squeeze": 0.65,
+"seg": [
+0.65
+]
+},
+"03-village/vo/muxiaokui_charge_02.wav": {
+"len": 0.61,
+"squeeze": 0.61,
+"seg": [
+0.61
+]
+},
+"03-village/vo/muxiaokui_death_01.wav": {
+"len": 0.78,
+"squeeze": 0.78,
+"seg": [
+0.78
+]
+},
+"03-village/vo/muxiaokui_death_02.wav": {
+"len": 0.88,
+"squeeze": 0.83,
+"seg": [
+0.83
+]
+},
+"03-village/vo/muxiaokui_hurt_01.wav": {
+"len": 0.58,
+"squeeze": 0.53,
+"seg": [
+0.53
+]
+},
+"03-village/vo/muxiaokui_hurt_02.wav": {
+"len": 0.53,
+"squeeze": 0.4,
+"seg": [
+0.4
+]
+},
+"03-village/vo/muxiaokui_line_01.wav": {
+"len": 1.38,
+"squeeze": 1.38,
+"seg": [
+1.38
+]
+},
+"03-village/vo/muxiaokui_line_02.wav": {
+"len": 9.0,
+"squeeze": 5.08,
+"seg": [
+0.36,
+0.5,
+1.64,
+0.5,
+0.51,
+0.67
+]
+},
+"03-village/vo/tiegui_attack_heavy_01.wav": {
+"len": 1.15,
+"squeeze": 1.01,
+"seg": [
+1.01
+]
+},
+"03-village/vo/tiegui_attack_heavy_02.wav": {
+"len": 1.16,
+"squeeze": 1.0,
+"seg": [
+1.0
+]
+},
+"03-village/vo/tiegui_attack_heavy_03.wav": {
+"len": 1.08,
+"squeeze": 0.87,
+"seg": [
+0.87
+]
+},
+"03-village/vo/tiegui_attack_heavy_04.wav": {
+"len": 0.99,
+"squeeze": 0.8,
+"seg": [
+0.8
+]
+},
+"03-village/vo/yuyao_encounter_line_01.wav": {
+"len": 2.11,
+"squeeze": 1.65,
+"seg": [
+0.7,
+0.77
+]
+},
+"03-village/vo/yuzan_attack_heavy_01.wav": {
+"len": 0.63,
+"squeeze": 0.63,
+"seg": [
+0.63
+]
+},
+"03-village/vo/yuzan_hurt_01.wav": {
+"len": 0.61,
+"squeeze": 0.55,
+"seg": [
+0.55
+]
+},
+"03-village/vo/zhuobi_hurt_01.wav": {
+"len": 0.82,
+"squeeze": 0.81,
+"seg": [
+0.81
+]
+},
+"03-village/vo/zhuobi_line_01.wav": {
+"len": 2.37,
+"squeeze": 2.37,
+"seg": [
+2.37
+]
+},
+"04-town/vo/changhong_hurt_01.wav": {
+"len": 0.54,
+"squeeze": 0.53,
+"seg": [
+0.53
+]
+},
+"04-town/vo/changhong_line_01.wav": {
+"len": 2.02,
+"squeeze": 2.01,
+"seg": [
+2.01
+]
+},
+"04-town/vo/guwanyue_attack_01.wav": {
+"len": 0.95,
+"squeeze": 0.8,
+"seg": [
+0.8
+]
+},
+"04-town/vo/guwanyue_attack_02.wav": {
+"len": 0.94,
+"squeeze": 0.78,
+"seg": [
+0.78
+]
+},
+"04-town/vo/guwanyue_charge_01.wav": {
+"len": 2.13,
+"squeeze": 1.95,
+"seg": [
+1.95
+]
+},
+"04-town/vo/guwanyue_charge_02.wav": {
+"len": 2.25,
+"squeeze": 2.07,
+"seg": [
+2.07
+]
+},
+"04-town/vo/guwanyue_hurt_01.wav": {
+"len": 1.55,
+"squeeze": 1.41,
+"seg": [
+1.41
+]
+},
+"04-town/vo/guwanyue_laugh_01.wav": {
+"len": 2.8,
+"squeeze": 2.62,
+"seg": [
+2.62
+]
+},
+"04-town/vo/guwanyue_laugh_02.wav": {
+"len": 2.26,
+"squeeze": 1.67,
+"seg": [
+1.67
+]
+},
+"04-town/vo/guwanyue_prebattle_opera_01.wav": {
+"len": 5.92,
+"squeeze": 5.92,
+"seg": [
+5.92
+]
+},
+"04-town/vo/guwanyue_prebattle_opera_02.wav": {
+"len": 10.65,
+"squeeze": 10.18,
+"seg": [
+10.18
+]
+},
+"04-town/vo/guwanyue_prebattle_opera_guide_01.wav": {
+"len": 82.11,
+"squeeze": 70.43,
+"seg": [
+10.0,
+8.09,
+7.06,
+7.25,
+16.39,
+20.74
+]
+},
+"04-town/vo/guwanyue_prebattle_opera_guide_02.wav": {
+"len": 221.44,
+"squeeze": 220.56,
+"seg": [
+0.8,
+219.58
+]
+},
+"04-town/vo/guwanyue_prebattle_opera_seq060_01.wav": {
+"len": 84.68,
+"squeeze": 84.23,
+"seg": [
+84.23
+]
+},
+"04-town/vo/guwanyue_prebattle_opera_seq061_01.wav": {
+"len": 23.53,
+"squeeze": 23.32,
+"seg": [
+23.32
+]
+},
+"04-town/vo/guwanyue_scream_01.wav": {
+"len": 1.25,
+"squeeze": 1.07,
+"seg": [
+1.07
+]
+},
+"04-town/vo/hoho_shout_01.wav": {
+"len": 1.25,
+"squeeze": 1.21,
+"seg": [
+1.21
+]
+},
+"04-town/vo/hoho_shout_02.wav": {
+"len": 0.72,
+"squeeze": 0.66,
+"seg": [
+0.66
+]
+},
+"04-town/vo/huoliuxing_attack_heavy_01.wav": {
+"len": 0.7,
+"squeeze": 0.7,
+"seg": [
+0.7
+]
+},
+"04-town/vo/huoliuxing_hurt_01.wav": {
+"len": 0.72,
+"squeeze": 0.72,
+"seg": [
+0.72
+]
+},
+"04-town/vo/huoliuxing_line_01.wav": {
+"len": 3.2,
+"squeeze": 3.16,
+"seg": [
+3.16
+]
+},
+"04-town/vo/huoliuxing_short_line_01.wav": {
+"len": 2.85,
+"squeeze": 2.85,
+"seg": [
+2.85
+]
+},
+"04-town/vo/wushizunzhu_attack_01.wav": {
+"len": 2.44,
+"squeeze": 2.05,
+"seg": [
+2.05
+]
+},
+"04-town/vo/wushizunzhu_attack_02.wav": {
+"len": 1.77,
+"squeeze": 1.57,
+"seg": [
+1.57
+]
+},
+"04-town/vo/wushizunzhu_charge_candidate_01.wav": {
+"len": 2.23,
+"squeeze": 2.02,
+"seg": [
+2.02
+]
+},
+"04-town/vo/wushizunzhu_charge_candidate_02.wav": {
+"len": 2.66,
+"squeeze": 2.47,
+"seg": [
+2.47
+]
+},
+"04-town/vo/wushizunzhu_death_01.wav": {
+"len": 5.98,
+"squeeze": 4.47,
+"seg": [
+1.64,
+1.1,
+1.37
+]
+},
+"04-town/vo/wushizunzhu_hurt_01.wav": {
+"len": 2.63,
+"squeeze": 2.41,
+"seg": [
+2.41
+]
+},
+"04-town/vo/wushizunzhu_hurt_02.wav": {
+"len": 2.02,
+"squeeze": 1.65,
+"seg": [
+1.65
+]
+},
+"04-town/vo/wushizunzhu_line_01.wav": {
+"len": 2.91,
+"squeeze": 2.7,
+"seg": [
+2.7
+]
+},
+"04-town/vo/wushizunzhu_line_02.wav": {
+"len": 2.21,
+"squeeze": 2.0,
+"seg": [
+2.0
+]
+},
+"04-town/vo/wushizunzhu_line_03.wav": {
+"len": 5.74,
+"squeeze": 4.89,
+"seg": [
+2.01,
+2.7
+]
+},
+"04-town/vo/wushizunzhu_short_line_01.wav": {
+"len": 2.21,
+"squeeze": 2.2,
+"seg": [
+2.2
+]
+},
+"04-town/vo/youlong_hurt_01.wav": {
+"len": 0.93,
+"squeeze": 0.93,
+"seg": [
+0.93
+]
+},
+"05-camp/vo/hongyinvjianke_attack_heavy_01.wav": {
+"len": 0.66,
+"squeeze": 0.65,
+"seg": [
+0.65
+]
+},
+"05-camp/vo/hongyinvjianke_encounter_line_01.wav": {
+"len": 2.24,
+"squeeze": 2.24,
+"seg": [
+2.24
+]
+},
+"05-camp/vo/hongyinvjianke_hurt_01.wav": {
+"len": 0.58,
+"squeeze": 0.58,
+"seg": [
+0.58
+]
+},
+"05-camp/vo/wanjun_attack_heavy_01.wav": {
+"len": 1.64,
+"squeeze": 1.64,
+"seg": [
+1.64
+]
+},
+"05-camp/vo/wanjun_hurt_01.wav": {
+"len": 1.45,
+"squeeze": 1.24,
+"seg": [
+1.24
+]
+},
+"05-camp/vo/yubi_attack_01.wav": {
+"len": 1.11,
+"squeeze": 1.07,
+"seg": [
+1.07
+]
+},
+"05-camp/vo/yubi_attack_02.wav": {
+"len": 1.58,
+"squeeze": 1.56,
+"seg": [
+1.56
+]
+},
+"05-camp/vo/yubi_charge_01.wav": {
+"len": 0.66,
+"squeeze": 0.65,
+"seg": [
+0.65
+]
+},
+"05-camp/vo/yubi_hurt_01.wav": {
+"len": 0.76,
+"squeeze": 0.76,
+"seg": [
+0.76
+]
+},
+"05-camp/vo/yubi_hurt_02.wav": {
+"len": 0.72,
+"squeeze": 0.72,
+"seg": [
+0.72
+]
+},
+"05-camp/vo/yubi_post_battle_dialogue.wav": {
+"len": 37.25,
+"squeeze": 34.39,
+"seg": [
+3.17,
+1.2,
+5.42,
+5.57,
+1.19,
+4.71,
+2.45,
+4.24,
+5.0
+]
+},
+"05-camp/vo/yubi_post_battle_line_01.wav": {
+"len": 6.67,
+"squeeze": 6.16,
+"seg": [
+2.36,
+3.62
+]
+},
+"05-camp/vo/yubi_post_battle_line_02.wav": {
+"len": 14.53,
+"squeeze": 13.68,
+"seg": [
+2.0,
+2.46,
+4.25,
+4.43
+]
+},
+"06-lake/vo/fengxuedaoke_attack_01.wav": {
+"len": 1.07,
+"squeeze": 0.88,
+"seg": [
+0.88
+]
+},
+"06-lake/vo/fengxuedaoke_attack_02.wav": {
+"len": 0.82,
+"squeeze": 0.62,
+"seg": [
+0.62
+]
+},
+"06-lake/vo/fengxuedaoke_death_01.wav": {
+"len": 1.56,
+"squeeze": 1.38,
+"seg": [
+1.38
+]
+},
+"06-lake/vo/fengxuedaoke_death_02.wav": {
+"len": 2.55,
+"squeeze": 2.34,
+"seg": [
+2.34
+]
+},
+"06-lake/vo/fengxuedaoke_hurt_01.wav": {
+"len": 0.81,
+"squeeze": 0.68,
+"seg": [
+0.68
+]
+},
+"06-lake/vo/fengxuedaoke_hurt_02.wav": {
+"len": 0.89,
+"squeeze": 0.75,
+"seg": [
+0.75
+]
+},
+"06-lake/vo/fengxuedaoke_p1_line_01.wav": {
+"len": 2.4,
+"squeeze": 2.31,
+"seg": [
+2.31
+]
+},
+"06-lake/vo/fengxuedaoke_p1_line_02.wav": {
+"len": 1.96,
+"squeeze": 1.95,
+"seg": [
+1.95
+]
+},
+"06-lake/vo/fengxuedaoke_p1_line_03.wav": {
+"len": 3.31,
+"squeeze": 3.15,
+"seg": [
+0.93,
+2.04
+]
+},
+"06-lake/vo/fengxuedaoke_p1_line_04.wav": {
+"len": 3.99,
+"squeeze": 3.63,
+"seg": [
+1.73,
+1.72
+]
+},
+"06-lake/vo/fengxuedaoke_p1_line_05.wav": {
+"len": 3.62,
+"squeeze": 3.2,
+"seg": [
+1.35,
+1.67
+]
+},
+"06-lake/vo/fengxuedaoke_p1_line_06.wav": {
+"len": 5.38,
+"squeeze": 4.98,
+"seg": [
+1.39,
+3.41
+]
+},
+"06-lake/vo/fengxuedaoke_p1_line_07.wav": {
+"len": 6.38,
+"squeeze": 5.69,
+"seg": [
+4.15,
+1.36
+]
+},
+"07-prison/vo/bifeng_hurt_01.wav": {
+"len": 1.17,
+"squeeze": 0.96,
+"seg": [
+0.96
+]
+},
+"07-prison/vo/huangxingzi_attack_01.wav": {
+"len": 2.16,
+"squeeze": 2.15,
+"seg": [
+2.15
+]
+},
+"07-prison/vo/huangxingzi_attack_02.wav": {
+"len": 2.14,
+"squeeze": 2.14,
+"seg": [
+2.14
+]
+},
+"07-prison/vo/huangxingzi_death_01.wav": {
+"len": 1.79,
+"squeeze": 1.79,
+"seg": [
+1.79
+]
+},
+"07-prison/vo/huangxingzi_death_02.wav": {
+"len": 1.77,
+"squeeze": 1.77,
+"seg": [
+1.77
+]
+},
+"07-prison/vo/huangxingzi_hurt_01.wav": {
+"len": 0.93,
+"squeeze": 0.8,
+"seg": [
+0.8
+]
+},
+"07-prison/vo/huangxingzi_hurt_02.wav": {
+"len": 0.98,
+"squeeze": 0.82,
+"seg": [
+0.82
+]
+},
+"07-prison/vo/huangxingzi_line_01.wav": {
+"len": 9.62,
+"squeeze": 8.53,
+"seg": [
+5.95,
+2.4
+]
+},
+"07-prison/vo/kuiyanyan_attack_heavy_01.wav": {
+"len": 2.61,
+"squeeze": 2.47,
+"seg": [
+2.47
+]
+},
+"07-prison/vo/kuiyanyan_hurt_01.wav": {
+"len": 1.15,
+"squeeze": 0.93,
+"seg": [
+0.93
+]
+},
+"07-prison/vo/yumianlangjun_encounter_line_01.wav": {
+"len": 7.85,
+"squeeze": 7.38,
+"seg": [
+7.38
+]
+},
+"08-estate/vo/leidang_attack_01.wav": {
+"len": 0.41,
+"squeeze": 0.38,
+"seg": [
+0.38
+]
+},
+"08-estate/vo/leidang_attack_02.wav": {
+"len": 0.4,
+"squeeze": 0.37,
+"seg": [
+0.37
+]
+},
+"08-estate/vo/leidang_charge_01.wav": {
+"len": 1.05,
+"squeeze": 1.04,
+"seg": [
+1.04
+]
+},
+"08-estate/vo/leidang_charge_02.wav": {
+"len": 1.2,
+"squeeze": 1.19,
+"seg": [
+1.19
+]
+},
+"08-estate/vo/leidang_death_01.wav": {
+"len": 0.84,
+"squeeze": 0.84,
+"seg": [
+0.84
+]
+},
+"08-estate/vo/leidang_death_02.wav": {
+"len": 0.74,
+"squeeze": 0.71,
+"seg": [
+0.71
+]
+},
+"08-estate/vo/leidang_hurt_01.wav": {
+"len": 0.47,
+"squeeze": 0.47,
+"seg": [
+0.47
+]
+},
+"08-estate/vo/leidang_hurt_02.wav": {
+"len": 0.36,
+"squeeze": 0.35,
+"seg": [
+0.35
+]
+},
+"08-estate/vo/leidang_p1_line_01.wav": {
+"len": 1.57,
+"squeeze": 1.54,
+"seg": [
+1.54
+]
+},
+"08-estate/vo/leidang_p1_line_02.wav": {
+"len": 3.35,
+"squeeze": 3.31,
+"seg": [
+3.31
+]
+},
+"08-estate/vo/leidang_p1_line_03.wav": {
+"len": 3.73,
+"squeeze": 3.72,
+"seg": [
+3.72
+]
+},
+"08-estate/vo/leidang_p1_line_04.wav": {
+"len": 1.95,
+"squeeze": 1.83,
+"seg": [
+1.83
+]
+},
+"08-estate/vo/leidang_p1_line_alt_01.wav": {
+"len": 1.74,
+"squeeze": 1.73,
+"seg": [
+1.73
+]
+},
+"08-estate/vo/leidang_p1_line_alt_02.wav": {
+"len": 1.8,
+"squeeze": 1.76,
+"seg": [
+1.76
+]
+},
+"08-estate/vo/leidang_p1_line_alt_03.wav": {
+"len": 1.02,
+"squeeze": 0.94,
+"seg": [
+0.94
+]
+},
+"08-estate/vo/leidang_p1_line_alt_04.wav": {
+"len": 1.0,
+"squeeze": 0.98,
+"seg": [
+0.98
+]
+},
+"08-estate/vo/leidang_p2_line_01.wav": {
+"len": 3.2,
+"squeeze": 3.15,
+"seg": [
+3.15
+]
+},
+"08-estate/vo/leidang_p2_line_02.wav": {
+"len": 6.01,
+"squeeze": 6.01,
+"seg": [
+6.01
+]
+},
+"08-estate/vo/leidang_p2_line_alt_01.wav": {
+"len": 2.98,
+"squeeze": 2.97,
+"seg": [
+2.97
+]
+},
+"08-estate/vo/leidang_p2_line_alt_02.wav": {
+"len": 2.95,
+"squeeze": 2.95,
+"seg": [
+2.95
+]
+},
+"08-estate/vo/leidang_ultimate_line_01.wav": {
+"len": 3.73,
+"squeeze": 3.72,
+"seg": [
+3.72
+]
+},
+"08-estate/vo/yuding_attack_heavy_01.wav": {
+"len": 0.83,
+"squeeze": 0.83,
+"seg": [
+0.83
+]
+},
+"08-estate/vo/yuding_hurt_01.wav": {
+"len": 0.67,
+"squeeze": 0.51,
+"seg": [
+0.51
+]
+},
+"09-mountain/vo/lengtu_attack_heavy_01.wav": {
+"len": 0.71,
+"squeeze": 0.64,
+"seg": [
+0.64
+]
+},
+"09-mountain/vo/lengtu_line_01.wav": {
+"len": 3.28,
+"squeeze": 3.25,
+"seg": [
+3.25
+]
+},
+"09-mountain/vo/lizhe_juzhe_attack_heavy_01.wav": {
+"len": 2.26,
+"squeeze": 2.18,
+"seg": [
+2.18
+]
+},
+"09-mountain/vo/lizhe_juzhe_hurt_01.wav": {
+"len": 1.43,
+"squeeze": 1.43,
+"seg": [
+1.43
+]
+},
+"09-mountain/vo/menghua_attack_heavy_01.wav": {
+"len": 1.2,
+"squeeze": 0.95,
+"seg": [
+0.95
+]
+},
+"09-mountain/vo/menghua_hurt_01.wav": {
+"len": 1.09,
+"squeeze": 1.09,
+"seg": [
+1.09
+]
+},
+"09-mountain/vo/menghua_line_01.wav": {
+"len": 3.59,
+"squeeze": 3.04,
+"seg": [
+3.04
+]
+},
+"09-mountain/vo/menghua_short_line_01.wav": {
+"len": 2.87,
+"squeeze": 2.86,
+"seg": [
+2.86
+]
+},
+"09-mountain/vo/zuoshang_attack_01.wav": {
+"len": 0.33,
+"squeeze": 0.33,
+"seg": [
+0.33
+]
+},
+"09-mountain/vo/zuoshang_attack_02.wav": {
+"len": 0.34,
+"squeeze": 0.31,
+"seg": [
+0.31
+]
+},
+"09-mountain/vo/zuoshang_charge_01.wav": {
+"len": 0.92,
+"squeeze": 0.9,
+"seg": [
+0.9
+]
+},
+"09-mountain/vo/zuoshang_charge_02.wav": {
+"len": 0.47,
+"squeeze": 0.46,
+"seg": [
+0.46
+]
+},
+"09-mountain/vo/zuoshang_death_01.wav": {
+"len": 3.1,
+"squeeze": 2.26,
+"seg": [
+0.42,
+0.79,
+0.69
+]
+},
+"09-mountain/vo/zuoshang_death_02.wav": {
+"len": 3.26,
+"squeeze": 2.45,
+"seg": [
+0.44,
+0.56,
+1.09
+]
+},
+"09-mountain/vo/zuoshang_hurt_01.wav": {
+"len": 0.43,
+"squeeze": 0.37,
+"seg": [
+0.37
+]
+},
+"09-mountain/vo/zuoshang_hurt_02.wav": {
+"len": 0.9,
+"squeeze": 0.67,
+"seg": [
+0.67
+]
+},
+"09-mountain/vo/zuoshang_p1_line_01.wav": {
+"len": 3.45,
+"squeeze": 3.0,
+"seg": [
+1.06,
+1.76
+]
+},
+"09-mountain/vo/zuoshang_p1_line_02.wav": {
+"len": 4.03,
+"squeeze": 3.43,
+"seg": [
+1.6,
+1.65
+]
+},
+"09-mountain/vo/zuoshang_p1_line_03.wav": {
+"len": 4.09,
+"squeeze": 3.4,
+"seg": [
+1.26,
+1.96
+]
+},
+"09-mountain/vo/zuoshang_p1_line_04.wav": {
+"len": 4.17,
+"squeeze": 3.25,
+"seg": [
+1.44,
+1.63
+]
+},
+"09-mountain/vo/zuoshang_p1_line_05.wav": {
+"len": 4.17,
+"squeeze": 3.38,
+"seg": [
+1.5,
+1.7
+]
+},
+"09-mountain/vo/zuoshang_p1_line_06.wav": {
+"len": 5.46,
+"squeeze": 4.06,
+"seg": [
+1.54,
+1.11,
+1.05
+]
+},
+"09-mountain/vo/zuoshang_p1_line_alt_01.wav": {
+"len": 4.47,
+"squeeze": 3.3,
+"seg": [
+1.09,
+2.03
+]
+},
+"09-mountain/vo/zuoshang_p1_line_alt_02.wav": {
+"len": 3.41,
+"squeeze": 2.79,
+"seg": [
+1.0,
+1.61
+]
+},
+"09-mountain/vo/zuoshang_p1_line_alt_03.wav": {
+"len": 4.66,
+"squeeze": 3.57,
+"seg": [
+1.71,
+1.68
+]
+},
+"09-mountain/vo/zuoshang_p1_line_alt_04.wav": {
+"len": 4.19,
+"squeeze": 3.19,
+"seg": [
+1.46,
+1.55
+]
+},
+"09-mountain/vo/zuoshang_p1_line_alt_05.wav": {
+"len": 5.83,
+"squeeze": 4.54,
+"seg": [
+1.75,
+1.44,
+0.99
+]
+},
+"09-mountain/vo/zuoshang_p1_line_alt_06.wav": {
+"len": 4.24,
+"squeeze": 3.66,
+"seg": [
+1.53,
+1.95
+]
+},
+"09-mountain/vo/zuoshang_p1_line_alt_07.wav": {
+"len": 4.16,
+"squeeze": 3.33,
+"seg": [
+1.48,
+1.67
+]
+},
+"09-mountain/vo/zuoshang_p1_line_alt_08.wav": {
+"len": 4.68,
+"squeeze": 3.86,
+"seg": [
+1.55,
+2.13
+]
+},
+"09-mountain/vo/zuoshang_p1_line_alt_09.wav": {
+"len": 3.53,
+"squeeze": 3.02,
+"seg": [
+1.0,
+1.84
+]
+},
+"09-mountain/vo/zuoshang_p1_line_alt_10.wav": {
+"len": 3.64,
+"squeeze": 2.99,
+"seg": [
+1.07,
+1.74
+]
+},
+"09-mountain/vo/zuoshang_p1_line_alt_11.wav": {
+"len": 4.23,
+"squeeze": 3.55,
+"seg": [
+1.63,
+1.74
+]
+},
+"09-mountain/vo/zuoshang_p1_line_alt_12.wav": {
+"len": 4.03,
+"squeeze": 3.41,
+"seg": [
+1.58,
+1.65
+]
+},
+"09-mountain/vo/zuoshang_p1_line_alt_13.wav": {
+"len": 4.44,
+"squeeze": 3.85,
+"seg": [
+1.68,
+1.99
+]
+},
+"09-mountain/vo/zuoshang_p2_line_01.wav": {
+"len": 1.59,
+"squeeze": 1.56,
+"seg": [
+1.56
+]
+},
+"09-mountain/vo/zuoshang_p2_line_02.wav": {
+"len": 2.33,
+"squeeze": 2.31,
+"seg": [
+2.31
+]
+},
+"09-mountain/vo/zuoshang_p2_line_03.wav": {
+"len": 1.3,
+"squeeze": 1.28,
+"seg": [
+1.28
+]
+},
+"09-mountain/vo/zuoshang_p2_line_04.wav": {
+"len": 2.57,
+"squeeze": 2.56,
+"seg": [
+2.56
+]
+},
+"09-mountain/vo/zuoshang_p2_line_05.wav": {
+"len": 3.3,
+"squeeze": 3.11,
+"seg": [
+1.71,
+1.22
+]
+},
+"09-mountain/vo/zuoshang_p2_line_alt_01.wav": {
+"len": 3.21,
+"squeeze": 3.05,
+"seg": [
+1.59,
+1.28
+]
+},
+"09-mountain/vo/zuoshang_p2_line_alt_02.wav": {
+"len": 3.76,
+"squeeze": 3.2,
+"seg": [
+1.58,
+1.44
+]
+},
+"09-mountain/vo/zuoshang_p2_line_alt_03.wav": {
+"len": 2.26,
+"squeeze": 2.26,
+"seg": [
+2.26
+]
+},
+"09-mountain/vo/zuoshang_p2_line_alt_04.wav": {
+"len": 2.67,
+"squeeze": 2.67,
+"seg": [
+2.67
+]
+},
+"09-mountain/vo/zuoshang_p2_line_alt_05.wav": {
+"len": 3.76,
+"squeeze": 3.36,
+"seg": [
+1.52,
+1.66
+]
+},
+"09-mountain/vo/zuoshang_p2_line_alt_06.wav": {
+"len": 1.25,
+"squeeze": 1.24,
+"seg": [
+1.24
+]
+},
+"09-mountain/vo/zuoshang_p2_line_alt_07.wav": {
+"len": 1.1,
+"squeeze": 1.09,
+"seg": [
+1.09
+]
+},
+"09-mountain/vo/zuoshang_p2_line_alt_08.wav": {
+"len": 1.28,
+"squeeze": 1.27,
+"seg": [
+1.27
+]
+},
+"09-mountain/vo/zuoshang_p2_line_alt_09.wav": {
+"len": 1.97,
+"squeeze": 1.96,
+"seg": [
+1.96
+]
+},
+"09-mountain/vo/zuoshang_p2_line_alt_10.wav": {
+"len": 1.78,
+"squeeze": 1.76,
+"seg": [
+1.76
+]
+}
+}
